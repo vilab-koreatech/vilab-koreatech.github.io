@@ -15,7 +15,7 @@
     - test-time adaptation
 
 - id: doi:10.1561/116.00000169
-  title: Deep Learning–Based Diagnostic System for Velopharyngeal Insufficiency Based on Videofluoroscopy in Patients With Repaired Cleft Palates
+  title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
   - Kyungsu Lee#
   - "**Haeyun Lee#**"
@@ -37,7 +37,7 @@
   authors:
   - Jeong Hyun Ha#
   - "**Haeyun Lee#**"
-  - Seok Min Kwon
+  - Seok Min Kwon#
   - Hyunjin Joo
   - Guang Lin
   - Deok-Yeol Kim
@@ -85,18 +85,19 @@
     - medical image analysis
     - domain adaptation
 
-# - id: doi:aistat
-#   title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
-#   authors:
-#   - Kyungsu Lee
-#   - "**Haeyun Lee**"
-#   - Jae Youn Hwang
-#   publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023)
-#   date: '2023-04-26'
-#   link: https://proceedings.mlr.press/v206/lee23a.html
-#   tags:
-#     - remote sensing
-#     - segmentation    
+- id: aistat
+  title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Jae Youn Hwang
+  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023)
+  date: '2023-04-26'
+  image: paper_img/AISTAT_2022.PNG
+  link: https://proceedings.mlr.press/v206/lee23a.html
+  tags:
+    - remote sensing
+    - segmentation    
 
 - id: doi:10.48550/arXiv.2210.11672
   title: Stochastic Adaptive Activation Function
@@ -116,7 +117,7 @@
 - id: doi:10.1016/j.cmpb.2022.106970
   title: Explainable deep learning algorithm for distinguishing incomplete Kawasaki disease by coronary artery lesions on echocardiographic imaging
   authors:
-  - "**Haeyun Lee#**"
+  - "**Haeyun Lee**"
   - Yongsoon Eun
   - Jae Youn Hwang
   - Lucy Youngmin Eun
