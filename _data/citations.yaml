@@ -197,8 +197,7 @@
   - remote sensing
   - segmentation
 - id: doi:10.1561/116.00000169
-  title: "Deep Learning\u2013Based Diagnostic System for Velopharyngeal Insufficiency\
-    \ Based on Videofluoroscopy in Patients With Repaired Cleft Palates"
+  title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
   - Kyungsu Lee#
   - '**Haeyun Lee#**'
@@ -221,7 +220,7 @@
   authors:
   - Jeong Hyun Ha#
   - '**Haeyun Lee#**'
-  - Seok Min Kwon
+  - Seok Min Kwon#
   - Hyunjin Joo
   - Guang Lin
   - Deok-Yeol Kim
@@ -297,7 +296,7 @@
   title: Explainable deep learning algorithm for distinguishing incomplete Kawasaki
     disease by coronary artery lesions on echocardiographic imaging
   authors:
-  - '**Haeyun Lee#**'
+  - '**Haeyun Lee**'
   - Yongsoon Eun
   - Jae Youn Hwang
   - Lucy Youngmin Eun
