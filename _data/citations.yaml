@@ -49,7 +49,7 @@
   - Jihwan P. Choi
   - Jae Youn Hwang
   publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2022-01-01'
+  date: '2021-07-26'
   link: https://doi.org/g8q2c8
   orcid: 0000-0002-7572-1705
   plugin: sources.py
@@ -60,7 +60,7 @@
   - segmentation
 - id: doi:10.2196/25869
   title: 'Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal
-    Information: Validation Study in a Real Health Care Environment (Preprint)'
+    Information: Validation Study in a Real Health Care Environment'
   authors:
   - '**Haeyun Lee#**'
   - Young Jun Chai#
@@ -316,7 +316,7 @@
   - Yongsoon Eun
   - Jae Youn Hwang
   - Lucy Youngmin Eun
-  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+  publisher: Computer Methods and Programs in Biomedicine
   date: '2022-08-01'
   link: https://doi.org/10.1016/j.cmpb.2022.106970
   image: paper_img/CMPB_2022.PNG
