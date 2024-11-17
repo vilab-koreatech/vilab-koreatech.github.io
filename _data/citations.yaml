@@ -14,6 +14,7 @@
   orcid: 0000-0002-7572-1705
   plugin: sources.py
   file: sources.yaml
+  image: paper_img/TGRS_2024.png
   tags:
   - remote sensing
   - test-time adaptation
@@ -209,6 +210,7 @@
   publisher: APSIPA Transactions on Signal and Information Processing
   date: '2024-01-22'
   link: https://10.1561/116.00000169
+  image: paper_img/APSIPA_2024.png
   tags:
   - medical image analysis
   - image restoration
@@ -252,6 +254,7 @@
     Intervention (MICCAI 2023)
   date: '2023-10-01'
   link: https://doi.org/10.1007/978-3-031-43898-1_37
+  image: paper_img/MICCAI_2023_FL.png
   tags:
   - medical image analysis
   - federated learning
