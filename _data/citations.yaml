@@ -275,6 +275,22 @@
   - domain adaptation
   plugin: sources.py
   file: sources.yaml
+- title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning
+    Entropy'
+  authors:
+  - Kyungsu Lee
+  - '**Haeyun Lee**'
+  - Jae Youn Hwang
+  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT
+    2023)
+  date: '2023-04-26'
+  image: paper_img/AISTAT_2022.PNG
+  link: https://proceedings.mlr.press/v206/lee23a.html
+  tags:
+  - remote sensing
+  - segmentation
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2210.11672
   title: Stochastic Adaptive Activation Function
   authors:
