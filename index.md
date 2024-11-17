@@ -11,16 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+VILAB에서 학부연구생을 모집하니, PUBLICATIONS나 RESEARCH에서 관심 분야가 있다면 메일로 연락주시거나 직접 찾아와주세요.
 
 {% endcapture %}
 
@@ -28,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="학부연구생/석사과정 모집합니다."
   text=text
 %}
 
