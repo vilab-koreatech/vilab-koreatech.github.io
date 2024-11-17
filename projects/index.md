@@ -5,23 +5,16 @@ nav:
   tooltip: Research area
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
+# {% include icon.html icon="fa-solid fa-wrench" %}Research Areas
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+## Medical Applications
 
 {% include section.html %}
 
-## More
+## Manufaturing Applications
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include section.html %}
+
+## Real-world Computational Photography
