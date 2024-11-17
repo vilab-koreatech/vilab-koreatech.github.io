@@ -33,7 +33,7 @@
   orcid: 0000-0002-7572-1705
   plugin: sources.py
   file: sources.yaml
-  image: paper_img/UFFC_2022.PNG
+  image: paper_img/UFFC_2022.png
   tags:
   - medical image analysis
   - image restoration
@@ -284,7 +284,7 @@
   publisher: International Conference on Artificial Intelligence and Statistics (AISTAT
     2023)
   date: '2023-04-26'
-  image: paper_img/AISTAT_2022.PNG
+  image: paper_img/AISTAT_2023.png
   link: https://proceedings.mlr.press/v206/lee23a.html
   tags:
   - remote sensing
@@ -302,7 +302,7 @@
     (Neurips 2022)
   date: '2022-12-02'
   link: https://doi.org/10.48550/arXiv.2210.11672
-  image: paper_img/neurips_2022.PNG
+  image: paper_img/neurips_2022.png
   tags:
   - machine learning
   - activation function
@@ -319,7 +319,7 @@
   publisher: Computer Methods and Programs in Biomedicine
   date: '2022-08-01'
   link: https://doi.org/10.1016/j.cmpb.2022.106970
-  image: paper_img/CMPB_2022.PNG
+  image: paper_img/CMPB_2022.png
   tags:
   - medical image analysis
   - classification
