@@ -54,7 +54,7 @@
   orcid: 0000-0002-7572-1705
   plugin: sources.py
   file: sources.yaml
-  image: paper_img/TGRS_2021.PNG
+  image: paper_img/TGRS_2021.png
   tags:
   - remote sensing
   - segmentation
