@@ -92,7 +92,7 @@
   - Jae Youn Hwang
   publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023)
   date: '2023-04-26'
-  image: paper_img/AISTAT_2022.PNG
+  image: paper_img/AISTAT_2023.png
   link: https://proceedings.mlr.press/v206/lee23a.html
   tags:
     - remote sensing
@@ -107,7 +107,7 @@
   - Jae Youn Hwang
   publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips 2022)
   date: '2022-12-02'
-  image: paper_img/neurips_2022.PNG
+  image: paper_img/neurips_2022.png
   link: https://doi.org/10.48550/arXiv.2210.11672
   tags:
     - machine learning
@@ -122,7 +122,7 @@
   - Lucy Youngmin Eun
   publisher: Computer Methods and Programs in Biomedicine
   date: '2022-08-01'
-  image: paper_img/CMPB_2022.PNG
+  image: paper_img/CMPB_2022.png
   link: https://doi.org/10.1016/j.cmpb.2022.106970
   tags:
     - medical image analysis
@@ -141,7 +141,7 @@
   publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
   date: '2022-07-25'
   link: https://doi.org/gr23nb
-  image: paper_img/UFFC_2022.PNG
+  image: paper_img/UFFC_2022.png
   tags:
     - medical image analysis
     - image restoration
