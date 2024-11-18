@@ -1,4 +1,4 @@
----
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/c74c92ba-6c8f-43a7-94c7-527d754b0c0c">---
 title: Contact
 nav:
   order: 5
@@ -43,11 +43,15 @@ nav:
 
 {% capture col2 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+<div style="width:100%; height:400px;">
+  <iframe 
+    src="https://map.naver.com/v5/?c=14127809.6506319,4516065.6143352,15,0,0,0,dh" 
+    width="100%" 
+    height="400" 
+    frameborder="0" 
+    allowfullscreen="">
+  </iframe>
+</div>
 
 {% endcapture %}
 
