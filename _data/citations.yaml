@@ -273,6 +273,7 @@
     Intervention (MICCAI 2023)
   date: '2023-10-01'
   link: https://doi.org/10.1007/978-3-031-43907-0_52
+  image: paper_img/MICCAI_2023_Self_sup.png
   tags:
   - medical image analysis
   - domain adaptation
