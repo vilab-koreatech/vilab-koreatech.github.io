@@ -26,8 +26,8 @@ VILAB에서 학부연구생을 모집하니, PUBLICATIONS나 RESEARCH에서 관�
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/student.png"
+  link="contact"
   title="학부연구생/석사과정 모집합니다."
   text=text
 %}
