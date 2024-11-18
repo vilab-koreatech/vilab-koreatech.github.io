@@ -17,4 +17,4 @@ nav:
 
 {% include section.html %}
 
-## Real-world Computational Photography
+## Computational Photography
