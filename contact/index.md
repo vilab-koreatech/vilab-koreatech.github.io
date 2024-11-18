@@ -33,11 +33,9 @@ nav:
 
 {% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+<i class="fa-solid fa-location-dot"></i> **Visula Intelligence LAB.,**
+429, 2nd Engineering Build, KOREATECH
+1600, Chungjeol-ro, Byeongcheon-myeon, Cheona, Korea
 
 {% endcapture %}
 
