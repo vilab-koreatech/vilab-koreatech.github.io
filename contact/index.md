@@ -35,7 +35,7 @@ nav:
 
 <i class="fa-solid fa-location-dot"></i> **Visula Intelligence LAB.,** <br>
 Room 429, 2nd Engineering Build, KOREATECH, <br>
-1600, Chungjeol-ro, Byeongcheon-myeon, Cheona, Korea <br>
+1600, Chungjeol-ro, Byeongcheon-myeon, Cheonan, Korea <br>
 
 <i class="fa-solid fa-phone"></i> +82-41-560-1644 <br>
 
