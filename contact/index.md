@@ -45,7 +45,7 @@ nav:
 
 <div style="width:100%; height:400px;">
   <iframe 
-    src="https://map.naver.com/v5/?c=14127809.6506319,4516065.6143352,15,0,0,0,dh" 
+    src="https://naver.me/5NdiHZZR" 
     width="100%" 
     height="400" 
     frameborder="0" 
