@@ -13,6 +13,15 @@ An engaging 1-3 sentence description of your lab.
 
 VILAB에서 학부연구생을 모집하니, PUBLICATIONS나 RESEARCH에서 관심 분야가 있다면 메일로 연락주시거나 직접 찾아와주세요.
 
+{%
+  include button.html
+  link="contact"
+  text="Contact"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 {% endcapture %}
 
 {%
@@ -25,12 +34,12 @@ VILAB에서 학부연구생을 모집하니, PUBLICATIONS나 RESEARCH에서 관�
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Kyungsu Lee, Haeyun Lee, Juhum Park, Jae Youn Hwang, "Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation", IEEE Transactions on Geoscience and Remote Sensing
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -40,11 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
+  image="paper_img/TGRS_2024.png"
+  link="research"
+  title="Our paper accepted to IEEE Transactions on Geoscience and Remote Sensing."
   text=text
 %}
 
