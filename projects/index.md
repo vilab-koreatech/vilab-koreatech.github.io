@@ -11,6 +11,17 @@ nav:
 
 ## Medical Applications
 
+{% capture text %}
+
+We develop the artificial intelligence algorithms and systems for diagnostic and prognostic assistance in the disease.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/student.png"
+%}
+
 {% include section.html %}
 
 ## Manufaturing Applications
