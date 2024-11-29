@@ -3,8 +3,8 @@
 
 {% assign svg = "images/logo.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
-{% assign jpg = "images/logo.jpg" | file_exists %}
-{% assign logo = png | default: svg | default: jpg | default: nil %}
+{% assign jpg = "images/icon.jpg" | file_exists %}
+{% assign logo = jpg | default: svg | default: jpg | default: nil %}
 
 <header
   class="background"
