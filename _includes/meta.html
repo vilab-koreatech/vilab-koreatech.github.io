@@ -29,8 +29,8 @@
 {%- endcapture %}
 
 {% assign png = "images/icon.png" | file_exists %}
-{% assign jpg = "images/icon.jpg" | file_exists %}
-{% assign icon = png | default: jpg | relative_url %}
+{% assign jpg = "images/icon.JPG" | file_exists %}
+{% assign icon = jpg | default: png | relative_url %}
 
 {% assign jpg = "images/share.jpg" | file_exists %}
 {% assign png = "images/share.png" | file_exists %}
