@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-VILAB에서 학부연구생을 모집하니, PUBLICATIONS나 RESEARCH에서 관심 분야가 있다면 메일로 연락주시거나 직접 찾아와주세요.
+VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICATIONS나 RESEARCH에서 관심 분야가 있다면 메일로 연락주시거나 직접 찾아와주세요.
 
 {%
   include button.html
