@@ -18,8 +18,8 @@
 - id: doi:10.1561/116.00000169
   title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
-  - Kyungsu Lee#
-  - "**Haeyun Lee#**"
+  - Kyungsu Lee†
+  - "**Haeyun Lee†**"
   - Moon Hwan Lee
   - C-C Jay Kuo
   - Seung-June Oh
@@ -37,9 +37,9 @@
 - id: doi:10.1097/SCS.0000000000009560
   title: Deep Learning–Based Diagnostic System for Velopharyngeal Insufficiency Based on Videofluoroscopy in Patients With Repaired Cleft Palates
   authors:
-  - Jeong Hyun Ha#
-  - "**Haeyun Lee#**"
-  - Seok Min Kwon#
+  - Jeong Hyun Ha†
+  - "**Haeyun Lee†**"
+  - Seok Min Kwon†
   - Hyunjin Joo
   - Guang Lin
   - Deok-Yeol Kim
@@ -58,8 +58,8 @@
 - id: doi:10.1007/978-3-031-43898-1_37
   title: Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis
   authors:
-  - Kyungsu Lee#
-  - "**Haeyun Lee#**"
+  - Kyungsu Lee†
+  - "**Haeyun Lee†**"
   - Thiago Coutinho Cavalcanti
   - Sewoong Kim
   - Georges El Fakhri
@@ -137,8 +137,8 @@
   title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor
     Segmentation in an Ultrasound Image
   authors:
-  - "**Haeyun Lee#**"
-  - Moon Hwan Lee#
+  - "**Haeyun Lee†**"
+  - Moon Hwan Lee†
   - Sangyeon Youn
   - Kyungsu Lee
   - Hah Min Lew
@@ -188,8 +188,8 @@
   title: 'Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal
     Information: Validation Study in a Real Health Care Environment'
   authors:
-  - "**Haeyun Lee#**"
-  - Young Jun Chai#
+  - "**Haeyun Lee†**"
+  - Young Jun Chai†
   - Hyunjin Joo
   - Kyungsu Lee
   - Jae Youn Hwang
@@ -299,8 +299,8 @@
   title: Objects Segmentation From High-Resolution Aerial Images Using U-Net With
     Pyramid Pooling Layers
   authors:
-  - Jun Hee Kim#
-  - "**Haeyun Lee#**"
+  - Jun Hee Kim†
+  - "**Haeyun Lee†**"
   - Seonghwan J. Hong
   - Sewoong Kim
   - Juhum Park
