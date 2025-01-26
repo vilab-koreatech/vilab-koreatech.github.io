@@ -28,7 +28,7 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
 
 {% capture text %}
 
-Kyungsu Lee, Haeyun Lee, ae Youn Hwang, "Connectome Mapping: Shape-Memory Network via Interpretation of Contextual Semantic Information", International Conference on Learning Representations (ICLR) 2025
+Kyungsu Lee, Haeyun Lee, Jae Youn Hwang, "Connectome Mapping: Shape-Memory Network via Interpretation of Contextual Semantic Information", International Conference on Learning Representations (ICLR) 2025
 
 {%
   include button.html
