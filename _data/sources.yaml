@@ -1,6 +1,19 @@
+- id: doi:10.1016/j.eswa.2025.126639
+  title: SoN: Selective Optimal Network for smartphone-based indoor localization in real-time
+  authors:
+  - Kyungsu Lee†
+  - "**Haeyun Lee†**"
+  - Jae Youn Hwang
+  publisher: Expert Systems with Applications
+  date: '2025-05-01'
+  image: paper_img/ESWA_2025.png
+  link: https://doi.org/10.1016/j.eswa.2025.126639
+  orcid: 0000-0002-7572-1705
+  tags:
+    - indoor localization
+
 - id: doi:10.1109/TGRS.2024.3378311
-  title: Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective
-    Test-Time Adaptation
+  title: Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation
   authors:
   - Kyungsu Lee
   - "**Haeyun Lee**"
