@@ -294,8 +294,7 @@
     - attention
 
 - id: doi:10.1109/tuffc.2020.2972573
-  title: Channel Attention Module with Multi-scale Grid Average Pooling for Breast
-    Cancer Segmentation in an Ultrasound Image
+  title: Channel Attention Module with Multi-scale Grid Average Pooling for Breast Cancer Segmentation in an Ultrasound Image
   authors:
   - "**Haeyun Lee**"
   - Jinhyoung Park
@@ -310,8 +309,7 @@
     - attention
 
 - id: doi:10.15701/kcgs.2019.25.3.1
-  title: Image Restoration Network with Adaptive Channel Attention Modules for Combined
-    Distortions
+  title: Image Restoration Network with Adaptive Channel Attention Modules for Combined Distortions
   authors:
   - "**Haeyun Lee**"
   - Sunghyun Cho
