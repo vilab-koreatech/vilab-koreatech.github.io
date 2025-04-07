@@ -1,3 +1,19 @@
+- id: doi:10.1109/LSP.2025.3557754
+  title: Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis
+  authors:
+  - "**Haeyun Lee†**"
+  - Kyungsu Lee†
+  - Jong Pil Yoon
+  - Jihun Kim
+  - Jun-Young Kim
+  publisher: IEEE Signal Processing Letters
+  date: '2025-05-01'
+  image: paper_img/ESWA_2025.png
+  link: https://doi.org/10.1109/LSP.2025.3557754
+  tags:
+    - medical image analysis
+    - image restoration
+
 - id: doi:10.1016/j.eswa.2025.126639
   title: SoN: Selective Optimal Network for smartphone-based indoor localization in real-time
   authors:
