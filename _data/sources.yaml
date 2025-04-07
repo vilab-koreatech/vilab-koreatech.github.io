@@ -10,6 +10,7 @@
   link: https://doi.org/10.1016/j.eswa.2025.126639
   tags:
     - indoor localization
+    - Optimization
 
 - id: doi:10.1109/TGRS.2024.3378311
   title: Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation
