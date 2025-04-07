@@ -1,8 +1,8 @@
-- id: doi:10.1109/LSP.2025.3557754
-  title: Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis
+- id: doi:10.1109/LSP.2025.3557754  
+  title: Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis  
   authors:
   - "**Haeyun Lee†**"
-  - Kyungsu Lee†
+  - "Kyungsu Lee†"
   - Jong Pil Yoon
   - Jihun Kim
   - Jun-Young Kim
@@ -18,7 +18,7 @@
 - id: doi:10.1016/j.eswa.2025.126639
   title: SoN: Selective Optimal Network for smartphone-based indoor localization in real-time
   authors:
-  - Kyungsu Lee†
+  - "Kyungsu Lee†"
   - "**Haeyun Lee†**"
   - Jae Youn Hwang
   publisher: Expert Systems with Applications
@@ -49,7 +49,7 @@
 - id: doi:10.1561/116.00000169
   title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
-  - Kyungsu Lee†
+  - "Kyungsu Lee†"
   - "**Haeyun Lee†**"
   - Moon Hwan Lee
   - C-C Jay Kuo
@@ -69,9 +69,9 @@
 - id: doi:10.1097/SCS.0000000000009560
   title: Deep Learning–Based Diagnostic System for Velopharyngeal Insufficiency Based on Videofluoroscopy in Patients With Repaired Cleft Palates
   authors:
-  - Jeong Hyun Ha†
+  - "Jeong Hyun Ha†"
   - "**Haeyun Lee†**"
-  - Seok Min Kwon†
+  - "Seok Min Kwon†"
   - Hyunjin Joo
   - Guang Lin
   - Deok-Yeol Kim
@@ -90,7 +90,7 @@
 - id: doi:10.1007/978-3-031-43898-1_37
   title: Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis
   authors:
-  - Kyungsu Lee†
+  - "Kyungsu Lee†"
   - "**Haeyun Lee†**"
   - Thiago Coutinho Cavalcanti
   - Sewoong Kim
@@ -169,7 +169,7 @@
   title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image
   authors:
   - "**Haeyun Lee†**"
-  - Moon Hwan Lee†
+  - "Moon Hwan Lee†"
   - Sangyeon Youn
   - Kyungsu Lee
   - Hah Min Lew
@@ -216,11 +216,10 @@
     - segmentation
 
 - id: doi:10.2196/25869
-  title: 'Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal
-    Information: Validation Study in a Real Health Care Environment'
+  title: "Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal Information: Validation Study in a Real Health Care Environment"
   authors:
   - "**Haeyun Lee†**"
-  - Young Jun Chai†
+  - "Young Jun Chai†"
   - Hyunjin Joo
   - Kyungsu Lee
   - Jae Youn Hwang
@@ -245,8 +244,7 @@
     - federated learning
 
 - id: doi:10.1109/JSTARS.2021.3069242
-  title: Local Similarity Siamese Network for Urban Land Change Detection on Remote
-    Sensing Images
+  title: "Local Similarity Siamese Network for Urban Land Change Detection on Remote Sensing Images"
   authors:
   - "**Haeyun Lee**"
   - Kyungsu Lee
@@ -327,10 +325,9 @@
     - attention
 
 - id: doi:10.1109/lgrs.2018.2868880
-  title: Objects Segmentation From High-Resolution Aerial Images Using U-Net With
-    Pyramid Pooling Layers
+  title: "Objects Segmentation From High-Resolution Aerial Images Using U-Net With Pyramid Pooling Layers"
   authors:
-  - Jun Hee Kim†
+  - "Jun Hee Kim†"
   - "**Haeyun Lee†**"
   - Seonghwan J. Hong
   - Sewoong Kim
