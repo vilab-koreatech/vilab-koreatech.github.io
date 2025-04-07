@@ -166,8 +166,7 @@
     - classification
 
 - id: doi:10.1109/TUFFC.2022.3193640
-  title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor
-    Segmentation in an Ultrasound Image
+  title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image
   authors:
   - "**Haeyun Lee†**"
   - Moon Hwan Lee†
