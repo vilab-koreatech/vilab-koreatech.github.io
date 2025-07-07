@@ -1,1 +1,18 @@
-
+- id: doi:10.1109/lgrs.2018.2868880
+  title: "Objects Segmentation From High-Resolution Aerial Images Using U-Net With Pyramid Pooling Layers"
+  authors:
+  - "Jun Hee Kim"
+  - "**Haeyun Lee**"
+  - Seonghwan J. Hong
+  - Sewoong Kim
+  - Juhum Park
+  - Jae Youn Hwang
+  - Jihwan P. Choi   
+  publisher: IEEE Geoscience and Remote Sensing Letters
+  date: '2018-09-27'
+  image: paper_img/GRSL.PNG
+  link: https://doi.org/g8q2dg
+  orcid: 0000-0002-7572-1705
+  tags:
+    - remote sensing
+    - segmentation
