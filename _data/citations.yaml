@@ -1,70 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.eswa.2025.126639
+  title: 'SoN: Selective Optimal Network for smartphone-based indoor localization
+    in real-time'
+  authors:
+  - Kyungsu Lee
+  - Haeyun Lee
+  - Jae Youn Hwang
+  publisher: Expert Systems with Applications
+  date: '2025-05-01'
+  link: https://doi.org/g848qn
+  orcid: 0000-0002-7572-1705
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LSP.2025.3557754
+  title: Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation
+    for Sophisticated Rotator Cuff Tear Diagnosis
+  authors:
+  - Haeyun Lee
+  - Kyungsu Lee
+  - Jong Pil Yoon
+  - Jihun Kim
+  - Jun-Young Kim
+  publisher: IEEE Signal Processing Letters
+  date: '2025-01-01'
+  link: https://doi.org/g9dkwk
+  orcid: 0000-0002-7572-1705
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TGRS.2024.3378311
   title: Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective
     Test-Time Adaptation
   authors:
   - Kyungsu Lee
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Juhum Park
   - Jae Youn Hwang
   publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2024-03-25'
+  date: '2024-01-01'
   link: https://doi.org/g8q2c7
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/TGRS_2024.png
-  tags:
-  - remote sensing
-  - test-time adaptation
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TUFFC.2022.3193640
   title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor
     Segmentation in an Ultrasound Image
   authors:
-  - "**Haeyun Lee\u2020**"
-  - "Moon Hwan Lee\u2020"
+  - Haeyun Lee
+  - Moon Hwan Lee
   - Sangyeon Youn
   - Kyungsu Lee
   - Hah Min Lew
   - Jae Youn Hwang
   publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-  date: '2022-07-25'
+  date: '2022-09-01'
   link: https://doi.org/gr23nb
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/UFFC_2022.png
-  tags:
-  - medical image analysis
-  - image restoration
-  - self-supervised learning
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TGRS.2021.3089623
   title: Boundary-Oriented Binary Building Segmentation Model With Two Scheme Learning
     for Aerial Images
   authors:
   - Kyungsu Lee
   - Jun Hee Kim
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Juhum Park
   - Jihwan P. Choi
   - Jae Youn Hwang
   publisher: IEEE Transactions on Geoscience and Remote Sensing
-  date: '2021-07-26'
+  date: '2022-01-01'
   link: https://doi.org/g8q2c8
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/TGRS_2021.png
-  tags:
-  - remote sensing
-  - segmentation
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2196/25869
   title: 'Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal
     Information: Validation Study in a Real Health Care Environment'
   authors:
-  - "**Haeyun Lee\u2020**"
-  - "Young Jun Chai\u2020"
+  - Haeyun Lee
+  - Young Jun Chai
   - Hyunjin Joo
   - Kyungsu Lee
   - Jae Youn Hwang
@@ -80,20 +95,16 @@
   - Sungwan Kim
   - Hyoun-Joong Kong
   publisher: JMIR Medical Informatics
-  date: '2021-04-03'
-  link: https://doi.org/g8q2dd
+  date: '2021-05-18'
+  link: https://doi.org/g8q2c9
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/JMIR_2021.PNG
-  tags:
-  - medical image analysis
-  - federated learning
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/JSTARS.2021.3069242
   title: Local Similarity Siamese Network for Urban Land Change Detection on Remote
     Sensing Images
   authors:
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Kyungsu Lee
   - Jun Hee Kim
   - Younghwan Na
@@ -102,86 +113,66 @@
   - Jae Youn Hwang
   publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
     Sensing
-  date: '2021-03-26'
+  date: '2021-01-01'
   link: https://doi.org/g8q2dc
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/JSTARS_2021.PNG
-  tags:
-  - remote sensing
-  - change detection
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/tuffc.2020.2972573
   title: Channel Attention Module with Multi-scale Grid Average Pooling for Breast
     Cancer Segmentation in an Ultrasound Image
   authors:
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Jinhyoung Park
   - Jae Youn Hwang
   publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-  date: '2020-02-10'
+  date: '2020-01-01'
   link: https://doi.org/gr2zsr
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/uffc_2020.PNG
-  tags:
-  - medical image analysis
-  - attention
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2020.2974001
   title: Locally Adaptive Channel Attention-Based Network for Denoising Images
   authors:
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Sunghyun Cho
   publisher: IEEE Access
-  date: '2020-02-14'
+  date: '2020-01-01'
   link: https://doi.org/g7kms8
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/IEEE_ACCESS_2020.PNG
-  tags:
-  - image restoration
-  - attention
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-030-58595-2_12
   title: Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
   authors:
   - Jaesung Rim
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Jucheol Won
   - Sunghyun Cho
-  publisher: European Conference on Computer Vision (ECCV 2020)
-  date: '2020-08-25'
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
   link: https://doi.org/gjvvht
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/eccv_2020.PNG
-  tags:
-  - image restoration
-  - dataset
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.15701/kcgs.2019.25.3.1
   title: Image Restoration Network with Adaptive Channel Attention Modules for Combined
     Distortions
   authors:
-  - '**Haeyun Lee**'
+  - Haeyun Lee
   - Sunghyun Cho
   publisher: Journal of the Korea Computer Graphics Society
   date: '2019-07-01'
   link: https://doi.org/g8q2df
   orcid: 0000-0002-7572-1705
-  plugin: sources.py
-  file: sources.yaml
-  image: paper_img/kcgs.PNG
-  tags:
-  - image restoration
-  - attention
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/lgrs.2018.2868880
   title: Objects Segmentation From High-Resolution Aerial Images Using U-Net With
     Pyramid Pooling Layers
   authors:
-  - "Jun Hee Kim\u2020"
-  - "**Haeyun Lee\u2020**"
+  - Jun Hee Kim
+  - '**Haeyun Lee**'
   - Seonghwan J. Hong
   - Sewoong Kim
   - Juhum Park
@@ -197,151 +188,3 @@
   tags:
   - remote sensing
   - segmentation
-- id: doi:10.1561/116.00000169
-  title: Multi-Scale Self-Attention Network for Denoising Medical Images
-  authors:
-  - "Kyungsu Lee\u2020"
-  - "**Haeyun Lee\u2020**"
-  - Moon Hwan Lee
-  - C-C Jay Kuo
-  - Seung-June Oh
-  - Jonghye Woo
-  - Jae Youn Hwang
-  publisher: APSIPA Transactions on Signal and Information Processing
-  date: '2024-01-22'
-  link: https://10.1561/116.00000169
-  author_notes: contributed equally to this work.
-  image: paper_img/APSIPA_2024.png
-  tags:
-  - medical image analysis
-  - image restoration
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1097/SCS.0000000000009560
-  title: "Deep Learning\u2013Based Diagnostic System for Velopharyngeal Insufficiency\
-    \ Based on Videofluoroscopy in Patients With Repaired Cleft Palates"
-  authors:
-  - "Jeong Hyun Ha\u2020"
-  - "**Haeyun Lee\u2020**"
-  - "Seok Min Kwon\u2020"
-  - Hyunjin Joo
-  - Guang Lin
-  - Deok-Yeol Kim
-  - Sukwha Kim
-  - Jae Youn Hwang
-  - Jee-Hyeok Chung
-  - Hyoun-Joong Kong
-  publisher: Journal of Craniofacial Surgery
-  date: '2023-11-01'
-  link: https://10.1097/SCS.0000000000009560
-  image: paper_img/JCS_2023.jpeg
-  tags:
-  - medical image analysis
-  - classification
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-3-031-43898-1_37
-  title: Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis
-  authors:
-  - "Kyungsu Lee\u2020"
-  - "**Haeyun Lee\u2020**"
-  - Thiago Coutinho Cavalcanti
-  - Sewoong Kim
-  - Georges El Fakhri
-  - Dong Hun Lee
-  - Jonghye Woo
-  - Jae Youn Hwang
-  publisher: International Conference on Medical Image Computing and Computer-Assisted
-    Intervention (MICCAI 2023)
-  date: '2023-10-01'
-  link: https://doi.org/10.1007/978-3-031-43898-1_37
-  image: paper_img/MICCAI_2023_FL.png
-  tags:
-  - medical image analysis
-  - federated learning
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/978-3-031-43907-0_52
-  title: Self-Supervised Domain Adaptive Segmentation of Breast Cancer via Test-Time
-    Fine-Tuning
-  authors:
-  - Kyungsu Lee
-  - '**Haeyun Lee**'
-  - Georges El Fakhri
-  - Jonghye Woo
-  - Jae Youn Hwang
-  publisher: International Conference on Medical Image Computing and Computer-Assisted
-    Intervention (MICCAI 2023)
-  date: '2023-10-01'
-  link: https://doi.org/10.1007/978-3-031-43907-0_52
-  image: paper_img/MICCAI_2023_Self_sup.png
-  tags:
-  - medical image analysis
-  - domain adaptation
-  plugin: sources.py
-  file: sources.yaml
-- title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning
-    Entropy'
-  authors:
-  - Kyungsu Lee
-  - '**Haeyun Lee**'
-  - Jae Youn Hwang
-  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT
-    2023)
-  date: '2023-04-26'
-  image: paper_img/AISTAT_2023.png
-  link: https://proceedings.mlr.press/v206/lee23a.html
-  tags:
-  - remote sensing
-  - segmentation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.48550/arXiv.2210.11672
-  title: Stochastic Adaptive Activation Function
-  authors:
-  - Kyungsu Lee
-  - Jaeseung Yang
-  - '**Haeyun Lee**'
-  - Jae Youn Hwang
-  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems
-    (Neurips 2022)
-  date: '2022-12-02'
-  link: https://doi.org/10.48550/arXiv.2210.11672
-  image: paper_img/neurips_2022.png
-  tags:
-  - machine learning
-  - activation function
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.cmpb.2022.106970
-  title: Explainable deep learning algorithm for distinguishing incomplete Kawasaki
-    disease by coronary artery lesions on echocardiographic imaging
-  authors:
-  - '**Haeyun Lee**'
-  - Yongsoon Eun
-  - Jae Youn Hwang
-  - Lucy Youngmin Eun
-  publisher: Computer Methods and Programs in Biomedicine
-  date: '2022-08-01'
-  link: https://doi.org/10.1016/j.cmpb.2022.106970
-  image: paper_img/CMPB_2022.png
-  tags:
-  - medical image analysis
-  - classification
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ICCV48922.2021.00698
-  title: Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images
-  authors:
-  - Kyungsu Lee
-  - '**Haeyun Lee**'
-  - Jae Youn Hwang
-  publisher: International Conference on Computer Vision (ICCV 2021)
-  date: '2021-10-14'
-  link: https://10.1109/ICCV48922.2021.00698
-  image: paper_img/iccv_2021.PNG
-  tags:
-  - remote sensing
-  - domain adaptation
-  plugin: sources.py
-  file: sources.yaml
