@@ -78,8 +78,8 @@
   title: 'Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal
     Information: Validation Study in a Real Health Care Environment'
   authors:
-  - Haeyun Lee
-  - Young Jun Chai
+  - '**Haeyun Lee<sup>*</sup>**'
+  - Young Jun Chai<sup>*</sup>
   - Hyunjin Joo
   - Kyungsu Lee
   - Jae Youn Hwang
@@ -95,16 +95,20 @@
   - Sungwan Kim
   - Hyoun-Joong Kong
   publisher: JMIR Medical Informatics
-  date: '2021-05-18'
-  link: https://doi.org/g8q2c9
+  date: '2021-04-03'
+  link: https://doi.org/g8q2dd
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/JMIR_2021.PNG
+  tags:
+  - medical image analysis
+  - federated learning
 - id: doi:10.1109/JSTARS.2021.3069242
   title: Local Similarity Siamese Network for Urban Land Change Detection on Remote
     Sensing Images
   authors:
-  - Haeyun Lee
+  - '**Haeyun Lee**'
   - Kyungsu Lee
   - Jun Hee Kim
   - Younghwan Na
@@ -113,60 +117,80 @@
   - Jae Youn Hwang
   publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
     Sensing
-  date: '2021-01-01'
+  date: '2021-03-26'
   link: https://doi.org/g8q2dc
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/JSTARS_2021.PNG
+  tags:
+  - remote sensing
+  - change detection
 - id: doi:10.1109/tuffc.2020.2972573
   title: Channel Attention Module with Multi-scale Grid Average Pooling for Breast
     Cancer Segmentation in an Ultrasound Image
   authors:
-  - Haeyun Lee
+  - '**Haeyun Lee**'
   - Jinhyoung Park
   - Jae Youn Hwang
   publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
-  date: '2020-01-01'
+  date: '2020-02-10'
   link: https://doi.org/gr2zsr
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/uffc_2020.PNG
+  tags:
+  - medical image analysis
+  - attention
 - id: doi:10.1109/ACCESS.2020.2974001
   title: Locally Adaptive Channel Attention-Based Network for Denoising Images
   authors:
-  - Haeyun Lee
+  - '**Haeyun Lee**'
   - Sunghyun Cho
   publisher: IEEE Access
-  date: '2020-01-01'
+  date: '2020-02-14'
   link: https://doi.org/g7kms8
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/IEEE_ACCESS_2020.PNG
+  tags:
+  - image restoration
+  - attention
 - id: doi:10.1007/978-3-030-58595-2_12
   title: Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
   authors:
   - Jaesung Rim
-  - Haeyun Lee
+  - '**Haeyun Lee**'
   - Jucheol Won
   - Sunghyun Cho
-  publisher: Lecture Notes in Computer Science
-  date: '2020-01-01'
+  publisher: European Conference on Computer Vision (ECCV 2020)
+  date: '2020-08-25'
   link: https://doi.org/gjvvht
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/eccv_2020.PNG
+  tags:
+  - image restoration
+  - dataset
 - id: doi:10.15701/kcgs.2019.25.3.1
   title: Image Restoration Network with Adaptive Channel Attention Modules for Combined
     Distortions
   authors:
-  - Haeyun Lee
+  - '**Haeyun Lee**'
   - Sunghyun Cho
   publisher: Journal of the Korea Computer Graphics Society
   date: '2019-07-01'
   link: https://doi.org/g8q2df
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/kcgs.PNG
+  tags:
+  - image restoration
+  - attention
 - id: doi:10.1109/lgrs.2018.2868880
   title: Objects Segmentation From High-Resolution Aerial Images Using U-Net With
     Pyramid Pooling Layers
