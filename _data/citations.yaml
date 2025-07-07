@@ -171,8 +171,8 @@
   title: Objects Segmentation From High-Resolution Aerial Images Using U-Net With
     Pyramid Pooling Layers
   authors:
-  - Jun Hee Kim
-  - '**Haeyun Lee**'
+  - Jun Hee Kim<sup>*</sup>
+  - '**Haeyun Lee<sup>*</sup>**'
   - Seonghwan J. Hong
   - Sewoong Kim
   - Juhum Park
@@ -188,3 +188,4 @@
   tags:
   - remote sensing
   - segmentation
+  description: '*Equally contributed'
