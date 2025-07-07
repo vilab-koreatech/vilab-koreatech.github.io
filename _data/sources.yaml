@@ -1,3 +1,21 @@
+- id: doi:10.1109/TGRS.2021.3089623
+  title: Boundary-Oriented Binary Building Segmentation Model With Two Scheme Learning for Aerial Images
+  authors:
+  - Kyungsu Lee
+  - Jun Hee Kim
+  - "**Haeyun Lee**"
+  - Juhum Park
+  - Jihwan P. Choi
+  - Jae Youn Hwang
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2021-07-26'
+  image: paper_img/TGRS_2021.png
+  link: https://doi.org/g8q2c8
+  orcid: 0000-0002-7572-1705
+  tags:
+    - remote sensing 
+    - segmentation
+
 - id: doi:10.2196/25869
   title: "Federated Learning for Thyroid Ultrasound Image Analysis to Protect Personal Information: Validation Study in a Real Health Care Environment"
   authors:
