@@ -1,17 +1,36 @@
+- id: doi:10.1016/j.compbiomed.2025.110478
+  title: 'Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms'
+  authors:
+  - "**Haeyun Lee<sup>*</sup>**"
+  - "Kyungsu Lee<sup>*</sup>"
+  - Moon Hwan Lee
+  - Sewoong Kim
+  - Yongsoon Eun
+  - Lucy Youngmin Eun
+  - Jae Youn Hwang
+  publisher: Computers in Biology and Medicine (SCIE)
+  date: '2025-09-01'
+  image: paper_img/ESWA_2025.png
+  link: https://doi.org/10.1016/j.compbiomed.2025.110478
+  orcid: 0000-0002-7572-1705
+  tags:
+    - medical image analysis
+    - attention mechanism
+  description: '*Equally contributed'
+  
 - id: doi:10.1016/j.eswa.2025.126639
   title: 'SoN: Selective Optimal Network for smartphone-based indoor localization in real-time'
   authors:
   - "Kyungsu Lee<sup>*</sup>"
   - "**Haeyun Lee<sup>*</sup>**"
   - Jae Youn Hwang
-  publisher: Expert Systems with Applications
+  publisher: Expert Systems with Applications (SCIE)
   date: '2025-05-01'
   image: paper_img/ESWA_2025.png
   link: https://doi.org/10.1016/j.eswa.2025.126639
-  orcid: 0000-0002-7572-1705
   tags:
     - indoor localization
-    - Optimization
+    - optimization
   description: '*Equally contributed'
 
 - id: doi:10.1109/LSP.2025.3557754  
@@ -22,11 +41,10 @@
   - Jong Pil Yoon
   - Jihun Kim
   - Jun-Young Kim
-  publisher: IEEE Signal Processing Letters
+  publisher: IEEE Signal Processing Letters (SCIE)
   date: '2025-04-03'
   image: paper_img/ESWA_2025.png
   link: https://doi.org/10.1109/LSP.2025.3557754
-  orcid: 0000-0002-7572-1705
   tags:
     - medical image analysis
     - image restoration
@@ -43,7 +61,6 @@
   date: '2024-03-25'
   image: paper_img/TGRS_2024.png
   link: https://doi.org/g8q2c7
-  orcid: 0000-0002-7572-1705
   tags:
     - remote sensing
     - test-time adaptation
