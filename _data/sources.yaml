@@ -1,3 +1,31 @@
+- title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Jae Youn Hwang
+  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023)
+  date: '2023-04-26'
+  image: paper_img/AISTAT_2023.png
+  link: https://proceedings.mlr.press/v206/lee23a.html
+  tags:
+    - remote sensing
+    - segmentation  
+
+- id: doi:10.48550/arXiv.2210.11672
+  title: Stochastic Adaptive Activation Function
+  authors:
+  - Kyungsu Lee
+  - Jaeseung Yang
+  - "**Haeyun Lee**"
+  - Jae Youn Hwang
+  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips 2022)
+  date: '2022-12-02'
+  image: paper_img/neurips_2022.png
+  link: https://doi.org/10.48550/arXiv.2210.11672
+  tags:
+    - machine learning
+    - activation function
+
 - id: doi:10.1016/j.cmpb.2022.106970
   title: Explainable deep learning algorithm for distinguishing incomplete Kawasaki disease by coronary artery lesions on echocardiographic imaging
   authors:
