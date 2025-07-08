@@ -1,3 +1,51 @@
+- id: doi:10.1016/j.cmpb.2022.106970
+  title: Explainable deep learning algorithm for distinguishing incomplete Kawasaki disease by coronary artery lesions on echocardiographic imaging
+  authors:
+  - "**Haeyun Lee**"
+  - Yongsoon Eun
+  - Jae Youn Hwang
+  - Lucy Youngmin Eun
+  publisher: Computer Methods and Programs in Biomedicine
+  date: '2022-08-01'
+  image: paper_img/CMPB_2022.png
+  link: https://doi.org/10.1016/j.cmpb.2022.106970
+  tags:
+    - medical image analysis
+    - classification
+
+- id: doi:10.1109/TUFFC.2022.3193640
+  title: Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image
+  authors:
+  - "**Haeyun Lee<sup>*</sup>**"
+  - "Moon Hwan Lee<sup>*</sup>"
+  - Sangyeon Youn
+  - Kyungsu Lee
+  - Hah Min Lew
+  - Jae Youn Hwang
+  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+  date: '2022-07-25'
+  link: https://doi.org/gr23nb
+  image: paper_img/UFFC_2022.png
+  tags:
+    - medical image analysis
+    - image restoration
+    - self-supervised learning
+  description: '*Equally contributed'
+
+- id: doi:10.1109/ICCV48922.2021.00698
+  title: Self-Mutating Network for Domain Adaptive Segmentation in Aerial Images
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Jae Youn Hwang
+  publisher: International Conference on Computer Vision (ICCV 2021)
+  date: '2021-10-14'
+  image: paper_img/iccv_2021.PNG
+  link: https://10.1109/ICCV48922.2021.00698
+  tags:
+    - remote sensing 
+    - domain adaptation
+
 - id: doi:10.1109/TGRS.2021.3089623
   title: Boundary-Oriented Binary Building Segmentation Model With Two Scheme Learning for Aerial Images
   authors:
@@ -43,6 +91,7 @@
   tags:
     - medical image analysis
     - federated learning
+  description: '*Equally contributed'
 
 - id: doi:10.1109/JSTARS.2021.3069242
   title: "Local Similarity Siamese Network for Urban Land Change Detection on Remote Sensing Images"
