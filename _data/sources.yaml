@@ -1,3 +1,53 @@
+- id: doi:10.1016/j.eswa.2025.126639
+  title: 'SoN: Selective Optimal Network for smartphone-based indoor localization in real-time'
+  authors:
+  - "Kyungsu Lee<sup>*</sup>"
+  - "**Haeyun Lee<sup>*</sup>**"
+  - Jae Youn Hwang
+  publisher: Expert Systems with Applications
+  date: '2025-05-01'
+  image: paper_img/ESWA_2025.png
+  link: https://doi.org/10.1016/j.eswa.2025.126639
+  orcid: 0000-0002-7572-1705
+  tags:
+    - indoor localization
+    - Optimization
+  description: '*Equally contributed'
+
+- id: doi:10.1109/LSP.2025.3557754  
+  title: Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis  
+  authors:
+  - "**Haeyun Lee<sup>*</sup>**"
+  - "Kyungsu Lee<sup>*</sup>"
+  - Jong Pil Yoon
+  - Jihun Kim
+  - Jun-Young Kim
+  publisher: IEEE Signal Processing Letters
+  date: '2025-04-03'
+  image: paper_img/ESWA_2025.png
+  link: https://doi.org/10.1109/LSP.2025.3557754
+  orcid: 0000-0002-7572-1705
+  tags:
+    - medical image analysis
+    - image restoration
+  description: '*Equally contributed'
+
+- id: doi:10.1109/TGRS.2024.3378311
+  title: Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Juhum Park
+  - Jae Youn Hwang
+  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  date: '2024-03-25'
+  image: paper_img/TGRS_2024.png
+  link: https://doi.org/g8q2c7
+  orcid: 0000-0002-7572-1705
+  tags:
+    - remote sensing
+    - test-time adaptation
+
 - id: doi:10.1561/116.00000169
   title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
@@ -39,6 +89,42 @@
     - medical image analysis
     - classification
   description: '*Equally contributed'
+
+- id: doi:10.1007/978-3-031-43898-1_37
+  title: Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis
+  authors:
+  - "Kyungsu Lee<sup>*</sup>"
+  - "**Haeyun Lee<sup>*</sup>**"
+  - Thiago Coutinho Cavalcanti
+  - Sewoong Kim
+  - Georges El Fakhri
+  - Dong Hun Lee
+  - Jonghye Woo
+  - Jae Youn Hwang
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) (AI Top Conference)
+  date: '2023-10-01'
+  image: paper_img/MICCAI_2023_FL.png
+  link: https://doi.org/10.1007/978-3-031-43898-1_37
+  tags:
+    - medical image analysis
+    - federated learning
+  description: '*Equally contributed'
+
+- id: doi:10.1007/978-3-031-43907-0_52
+  title: Self-Supervised Domain Adaptive Segmentation of Breast Cancer via Test-Time Fine-Tuning
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Georges El Fakhri
+  - Jonghye Woo
+  - Jae Youn Hwang
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) (AI Top Conference)
+  date: '2023-10-01'
+  image: paper_img/MICCAI_2023_Self_sup.png
+  link: https://doi.org/10.1007/978-3-031-43907-0_52
+  tags:
+    - medical image analysis
+    - domain adaptation
 
 - title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
   authors:
