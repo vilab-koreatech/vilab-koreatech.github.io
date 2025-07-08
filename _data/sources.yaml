@@ -1,9 +1,51 @@
+- id: doi:10.1561/116.00000169
+  title: Multi-Scale Self-Attention Network for Denoising Medical Images
+  authors:
+  - "Kyungsu Lee<sup>*</sup>"
+  - "**Haeyun Lee<sup>*</sup>**"
+  - Moon Hwan Lee
+  - C-C Jay Kuo
+  - Seung-June Oh
+  - Jonghye Woo
+  - Jae Youn Hwang
+  author_notes: contributed equally to this work.
+  publisher: APSIPA Transactions on Signal and Information Processing (SCOPUS)
+  date: '2024-01-22'
+  image: paper_img/APSIPA_2024.png
+  link: https://10.1561/116.00000169
+  tags:
+    - medical image analysis
+    - image restoration
+  description: '*Equally contributed'
+
+- id: doi:10.1097/SCS.0000000000009560
+  title: Deep Learning–Based Diagnostic System for Velopharyngeal Insufficiency Based on Videofluoroscopy in Patients With Repaired Cleft Palates
+  authors:
+  - "Jeong Hyun Ha<sup>*</sup>"
+  - "**Haeyun Lee<sup>*</sup>**"
+  - "Seok Min Kwon<sup>*</sup>"
+  - Hyunjin Joo
+  - Guang Lin
+  - Deok-Yeol Kim
+  - Sukwha Kim
+  - Jae Youn Hwang
+  - Jee-Hyeok Chung
+  - Hyoun-Joong Kong
+  publisher: Journal of Craniofacial Surgery (SCIE)
+  date: '2023-11-01'
+  image: paper_img/JCS_2023.jpeg
+  link: https://10.1097/SCS.0000000000009560
+  tags:
+    - medical image analysis
+    - classification
+  description: '*Equally contributed'
+
 - title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
   authors:
   - Kyungsu Lee
   - "**Haeyun Lee**"
   - Jae Youn Hwang
-  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023)
+  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023) (AI Top Conference)
   date: '2023-04-26'
   image: paper_img/AISTAT_2023.png
   link: https://proceedings.mlr.press/v206/lee23a.html
@@ -18,7 +60,7 @@
   - Jaeseung Yang
   - "**Haeyun Lee**"
   - Jae Youn Hwang
-  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips 2022)
+  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips 2022) (AI Top Conference)
   date: '2022-12-02'
   image: paper_img/neurips_2022.png
   link: https://doi.org/10.48550/arXiv.2210.11672
@@ -33,7 +75,7 @@
   - Yongsoon Eun
   - Jae Youn Hwang
   - Lucy Youngmin Eun
-  publisher: Computer Methods and Programs in Biomedicine
+  publisher: Computer Methods and Programs in Biomedicine (SCIE)
   date: '2022-08-01'
   image: paper_img/CMPB_2022.png
   link: https://doi.org/10.1016/j.cmpb.2022.106970
@@ -50,7 +92,7 @@
   - Kyungsu Lee
   - Hah Min Lew
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)
   date: '2022-07-25'
   link: https://doi.org/gr23nb
   image: paper_img/UFFC_2022.png
@@ -66,7 +108,7 @@
   - Kyungsu Lee
   - "**Haeyun Lee**"
   - Jae Youn Hwang
-  publisher: International Conference on Computer Vision (ICCV 2021)
+  publisher: International Conference on Computer Vision (ICCV 2021) (AI Top Conference)
   date: '2021-10-14'
   image: paper_img/iccv_2021.PNG
   link: https://10.1109/ICCV48922.2021.00698
@@ -83,7 +125,7 @@
   - Juhum Park
   - Jihwan P. Choi
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Geoscience and Remote Sensing
+  publisher: IEEE Transactions on Geoscience and Remote Sensing (SCIE)
   date: '2021-07-26'
   image: paper_img/TGRS_2021.png
   link: https://doi.org/g8q2c8
@@ -111,7 +153,7 @@
   - Kyu Eun Lee
   - Sungwan Kim
   - Hyoun-Joong Kong
-  publisher: JMIR Medical Informatics
+  publisher: JMIR Medical Informatics (SCIE)
   date: '2021-04-03'
   image: paper_img/JMIR_2021.PNG
   link: https://doi.org/g8q2dd
@@ -131,7 +173,7 @@
   - Juhum Park
   - Jihwan P. Choi
   - Jae Youn Hwang
-  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote
+  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote (SCIE)
     Sensing
   date: '2021-03-26'
   image: paper_img/JSTARS_2021.PNG
@@ -148,7 +190,7 @@
   - "**Haeyun Lee**"
   - Jucheol Won
   - Sunghyun Cho
-  publisher: European Conference on Computer Vision (ECCV 2020)
+  publisher: European Conference on Computer Vision (ECCV 2020) (AI Top Conference)
   date: '2020-08-25'
   image: paper_img/eccv_2020.PNG
   link: https://doi.org/gjvvht
@@ -162,7 +204,7 @@
   authors:
   - "**Haeyun Lee**"
   - Sunghyun Cho
-  publisher: IEEE Access
+  publisher: IEEE ACCESS (SCIE)
   date: '2020-02-14'
   image: paper_img/IEEE_ACCESS_2020.PNG
   link: https://doi.org/g7kms8
@@ -177,7 +219,7 @@
   - "**Haeyun Lee**"
   - Jinhyoung Park
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE)
   date: '2020-02-10'
   image: paper_img/uffc_2020.PNG
   link: https://doi.org/gr2zsr
@@ -191,7 +233,7 @@
   authors:
   - "**Haeyun Lee**"
   - Sunghyun Cho
-  publisher: Journal of the Korea Computer Graphics Society
+  publisher: Journal of the Korea Computer Graphics Society (KCI)
   date: '2019-07-01'
   image: paper_img/kcgs.PNG
   link: https://doi.org/g8q2df
@@ -210,7 +252,7 @@
   - Juhum Park
   - Jae Youn Hwang
   - Jihwan P. Choi   
-  publisher: IEEE Geoscience and Remote Sensing Letters
+  publisher: IEEE Geoscience and Remote Sensing Letters (SCIE)
   date: '2018-09-27'
   image: paper_img/GRSL.PNG
   link: https://doi.org/g8q2dg
