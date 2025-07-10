@@ -10,7 +10,7 @@
   - Jae Youn Hwang
   publisher: Computers in Biology and Medicine (SCIE)
   date: '2025-09-01'
-  image: paper_img/ESWA_2025.png
+  image: paper_img/2025_CIBM.png
   link: https://doi.org/10.1016/j.compbiomed.2025.110478
   orcid: 0000-0002-7572-1705
   tags:
@@ -43,7 +43,7 @@
   - Jun-Young Kim
   publisher: IEEE Signal Processing Letters (SCIE)
   date: '2025-04-03'
-  image: paper_img/ESWA_2025.png
+  image: paper_img/2025_SPL.png
   link: https://doi.org/10.1109/LSP.2025.3557754
   tags:
     - medical image analysis
