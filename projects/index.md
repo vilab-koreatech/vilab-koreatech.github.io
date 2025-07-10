@@ -41,3 +41,6 @@ nav:
 {% capture text %}
 
 There is no projects.
+
+{% endcapture %}
+
