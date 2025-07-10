@@ -17,7 +17,7 @@
   orcid: 0000-0002-7572-1705
   plugin: sources.py
   file: sources.yaml
-  image: paper_img/ESWA_2025.png
+  image: paper_img/2025_CIBM.png
   tags:
   - medical image analysis
   - attention mechanism
@@ -55,7 +55,7 @@
   orcid: 0000-0002-7572-1705
   plugin: sources.py
   file: sources.yaml
-  image: paper_img/ESWA_2025.png
+  image: paper_img/2025_SPL.png
   tags:
   - medical image analysis
   - image restoration
