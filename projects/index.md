@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-## Research Areas
-
 {% include section.html %}
+
+## Research Areas
 
 {% capture col1 %}
 
