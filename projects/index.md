@@ -33,6 +33,7 @@ nav:
 
 
 {% include section.html %}
+{% endcapture %}
 
 ## Projects
 
