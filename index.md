@@ -28,7 +28,7 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
 
 {% capture text %}
 
-Kyungsu Lee, **Haeyun Lee**, Jae Youn Hwang, "Connectome Mapping: Shape-Memory Network via Interpretation of Contextual Semantic Information", International Conference on Learning Representations (ICLR) 2025
+**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang, "Expert-Level Differentiation of Incomplete Kawasaki Disease and Pneumonia from Echocardiography via Multiple Large Receptive Attention Mechanisms", Computers in Biology and Medicine.
 
 {%
   include button.html
@@ -43,16 +43,16 @@ Kyungsu Lee, **Haeyun Lee**, Jae Youn Hwang, "Connectome Mapping: Shape-Memory N
 
 {%
   include feature.html
-  image="paper_img/ICLR_2025.png"
+  image="paper_img/2025_CIBM.png"
   link="research"
-  title="Our paper accepted to International Conference on Learning Representations (ICLR) 2025."
+  title="Our paper accepted to Computers in Biology and Medicine."
   text=text
 %}
 
 
 {% capture text %}
 
-Kyungsu Lee†, **Haeyun Lee†**, Jae Youn Hwang, "SoN: Selective Optimal Network for Smartphone-based Indoor Localization in Real-time", Expert Systems with Applications
+**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Jong Pil Yoon, Jihun Kim, Jun-Young KimJae Youn Hwang, "Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis", IEEE Signal Processing Letters
 
 {%
   include button.html
@@ -69,6 +69,6 @@ Kyungsu Lee†, **Haeyun Lee†**, Jae Youn Hwang, "SoN: Selective Optimal Netwo
   include feature.html
   image="paper_img/ESWA_2025.png"
   link="research"
-  title="Our paper accepted to Expert Systems with Applications."
+  title="Our paper accepted to IEEE Signal Processing Letters."
   text=text
 %}
