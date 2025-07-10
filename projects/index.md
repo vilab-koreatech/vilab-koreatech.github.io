@@ -9,7 +9,7 @@ nav:
 
 ## Research Areas
 
-{% capture text %}
+{% include section.html %}
 
 {% capture col1 %}
 
@@ -31,9 +31,10 @@ nav:
 
 {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 %}
+
 
 {% include section.html %}
-{% endcapture %}
 
 ## Projects
 
