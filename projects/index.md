@@ -2,55 +2,42 @@
 title: Research
 nav:
   order: 2
-  tooltip: Research area
+  tooltip: Research area, Project
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Areas
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 {% include section.html %}
 
-## Medical Applications
+## Research Areas
 
 {% capture text %}
 
-We develop the artificial intelligence algorithms and systems for diagnostic and prognostic assistance in the disease.
-
-{% endcapture %}
+{% capture col1 %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/Medical_Application.png"
-  text=text
+  caption="We develop the artificial intelligence algorithms and systems for diagnostic and prognostic assistance in the disease."
 %}
-
-{% include section.html %}
-
-## Manufaturing Applications
-
-{% capture text %}
-
-We develop artificial intelligence algorithms to solve problems that occur in manufacturing.
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/Manufaturing_Applicatopn.png"
-  text=text
-%}
-
-{% include section.html %}
-
-## Computational Photography
-
-{% capture text %}
-
-We design algorithms that maximize the quality of visual data captured from existing imaging equipment.
-
-{% endcapture %}
+{% capture col2 %}
 
 {%
-  include feature.html
+  include figure.html
   image="images/Computational_Photography.png"
-  text=text
+  caption="We design algorithms that maximize the quality of visual data captured from existing imaging equipment."
 %}
+
+{% endcapture %}
+
+
+{% include section.html %}
+
+## Projects
+
+{% capture text %}
+
+There is no projects.
