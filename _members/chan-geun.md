@@ -1,7 +1,7 @@
 ---
 name: Chan Geun Lee
 image: images/changeun.png
-role: grad
+role: undergrad
 group: alum
 ---
 
