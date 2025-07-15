@@ -143,6 +143,24 @@
     - medical image analysis
     - domain adaptation
 
+- id: doi:10.1007/978-3-031-47425-5_8
+  title: "Outlier Robust Disease Classification via Stochastic Confidence Network"
+  authors:
+  - Kyungsu Lee
+  - "**Haeyun Lee**"
+  - Georges El Fakhri
+  - Jorge Sepulcre
+  - Xiaofeng Liu
+  - Fangxu Xing
+  - Jae Youn Hwang
+  - Jonghye Woo
+  publisher: Workshop on MICCAI 2023
+  date: '2023-10-01'
+  link: https://doi.org/g9sj92
+  image: paper_img/2023_MICCAI_WORKSHOP.jpg
+  tags:
+    - medical image analysis
+
 - title: 'USIM Gate: UpSampling Module for Segmenting Precise Boundaries concerning Entropy'
   authors:
   - Kyungsu Lee
