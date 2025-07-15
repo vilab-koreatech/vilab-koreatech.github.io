@@ -68,9 +68,11 @@
           {{- citation.date | default: "[no date info]" | date: "%b %d %Y" -}}
         </span>
         &nbsp;·&nbsp;
+        {%- comment -%}
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
+        {%- endcomment -%}
       </div>
 
       {% if include.style == "rich" %}
