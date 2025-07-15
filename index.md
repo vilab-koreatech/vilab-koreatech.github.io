@@ -52,7 +52,7 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
 
 {% capture text %}
 
-**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Jong Pil Yoon, Jihun Kim, Jun-Young KimJae Youn Hwang, "Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis", IEEE Signal Processing Letters
+**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Jong Pil Yoon, Jihun Kim, Jun-Young Kim, "Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis", IEEE Signal Processing Letters
 
 {%
   include button.html
