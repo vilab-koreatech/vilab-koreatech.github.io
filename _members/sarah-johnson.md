@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+name: Junhan Park
+image: images/junhan.jpg
+role: undergrad
+affliation: KOREATECH
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: junhan3100@koreatech.ac.kr
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
