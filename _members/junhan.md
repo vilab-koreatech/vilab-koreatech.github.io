@@ -2,7 +2,7 @@
 name: Junhan Park
 image: images/junhan.jpg
 role: undergrad
-affliation: KOREATECH
+affiliation: KOREATECH
 links:
   email: junhan3100@koreatech.ac.kr
 ---
