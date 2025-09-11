@@ -182,6 +182,11 @@ unpublished:
   text: Unpublished
   tooltip: Unpublished
 
+submitted:
+  icon: hourglass
+  text: Submitted
+  tooltip: Submitted
+
 manubot:
   icon: manubot.svg
   text: Manubot
