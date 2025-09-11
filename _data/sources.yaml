@@ -1,13 +1,3 @@
-# - title: Test
-#   authors:
-#     - "**Haeyun Lee**"
-#     - Test
-#     - Test
-#   publisher: 'Submitted to TEST'
-#   status: submitted
-#   date: '2025-09-01'
-#   # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
-
 - id: doi:10.1016/j.compbiomed.2025.110478
   title: 'Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms'
   authors:
