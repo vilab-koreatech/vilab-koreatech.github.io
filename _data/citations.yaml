@@ -353,6 +353,16 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
+- title: Test
+  authors:
+  - '**Haeyun Lee**'
+  - Test
+  - Test
+  publisher: Submitted to TEST
+  status: submitted
+  date: '2025-09-01'
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1561/116.00000169
   title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
