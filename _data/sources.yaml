@@ -8,7 +8,7 @@
   - Yongsoon Eun
   - Lucy Youngmin Eun
   - Jae Youn Hwang
-  publisher: Computers in Biology and Medicine (SCIE) (I.F.: 6.3, JCR: 94.8% (2024))
+  publisher: "Computers in Biology and Medicine (SCIE) (I.F.: 6.3, JCR: 94.8% (2024))"
   date: '2025-09-01'
   image: paper_img/2025_CIBM.png
   link: https://doi.org/10.1016/j.compbiomed.2025.110478
@@ -24,7 +24,7 @@
   - "Kyungsu Lee<sup>*</sup>"
   - "**Haeyun Lee<sup>*</sup>**"
   - Jae Youn Hwang
-  publisher: Expert Systems with Applications (SCIE) (I.F.: 7.5, JCR: 94.8%(2023))
+  publisher: "Expert Systems with Applications (SCIE) (I.F.: 7.5, JCR: 94.8%(2023))"
   date: '2025-05-01'
   image: paper_img/ESWA_2025.png
   link: https://doi.org/10.1016/j.eswa.2025.126639
@@ -41,7 +41,7 @@
   - Jong Pil Yoon
   - Jihun Kim
   - Jun-Young Kim
-  publisher: IEEE Signal Processing Letters (SCIE) (I.F.: 3.2, JCR: 63.3%(2023))
+  publisher: "IEEE Signal Processing Letters (SCIE) (I.F.: 3.2, JCR: 63.3%(2023))"
   date: '2025-04-03'
   image: paper_img/2025_SPL.png
   link: https://doi.org/10.1109/LSP.2025.3557754
@@ -57,7 +57,7 @@
   - "**Haeyun Lee**"
   - Juhum Park
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Geoscience and Remote Sensing (SCIE) (I.F.: 8.2, JCR: 94.8%(2022))
+  publisher: "IEEE Transactions on Geoscience and Remote Sensing (SCIE) (I.F.: 8.2, JCR: 94.8%(2022))"
   date: '2024-03-25'
   image: paper_img/TGRS_2024.png
   link: https://doi.org/g8q2c7
@@ -76,7 +76,7 @@
   - Jonghye Woo
   - Jae Youn Hwang
   author_notes: contributed equally to this work.
-  publisher: APSIPA Transactions on Signal and Information Processing (SCOPUS) (I.F.: 3.2 (2022))
+  publisher: "APSIPA Transactions on Signal and Information Processing (SCOPUS) (I.F.: 3.2 (2022))"
   date: '2024-01-22'
   image: paper_img/APSIPA_2024.png
   link: https://10.1561/116.00000169
@@ -98,7 +98,7 @@
   - Jae Youn Hwang
   - Jee-Hyeok Chung
   - Hyoun-Joong Kong
-  publisher: Journal of Craniofacial Surgery (SCIE) (I.F.: 0.9, JCR: 12.4%(2022))
+  publisher: "Journal of Craniofacial Surgery (SCIE) (I.F.: 0.9, JCR: 12.4%(2022))"
   date: '2023-11-01'
   image: paper_img/JCS_2023.jpeg
   link: https://10.1097/scs.0000000000009560
@@ -196,7 +196,7 @@
   - Yongsoon Eun
   - Jae Youn Hwang
   - Lucy Youngmin Eun
-  publisher: Computer Methods and Programs in Biomedicine (SCIE) (I.F.: 7.027, JCR: 89.5%(2021))
+  publisher: "Computer Methods and Programs in Biomedicine (SCIE) (I.F.: 7.027, JCR: 89.5%(2021))"
   date: '2022-08-01'
   image: paper_img/CMPB_2022.png
   link: https://doi.org/10.1016/j.cmpb.2022.106970
@@ -213,7 +213,7 @@
   - Kyungsu Lee
   - Hah Min Lew
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE) (I.F.: 3.267, JCR: 73.44%(2021))
+  publisher: "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE) (I.F.: 3.267, JCR: 73.44%(2021))"
   date: '2022-07-25'
   link: https://doi.org/gr23nb
   image: paper_img/UFFC_2022.png
@@ -246,7 +246,7 @@
   - Juhum Park
   - Jihwan P. Choi
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Geoscience and Remote Sensing (SCIE) (I.F.: 5.6, JCR: 94.89%(2020))
+  publisher: "IEEE Transactions on Geoscience and Remote Sensing (SCIE) (I.F.: 5.6, JCR: 94.89%(2020))"
   date: '2021-07-26'
   image: paper_img/TGRS_2021.png
   link: https://doi.org/g8q2c8
@@ -274,7 +274,7 @@
   - Kyu Eun Lee
   - Sungwan Kim
   - Hyoun-Joong Kong
-  publisher: JMIR Medical Informatics (SCIE) (I.F.: 2.577, JCR: 53.7%(2019))
+  publisher: "JMIR Medical Informatics (SCIE) (I.F.: 2.577, JCR: 53.7%(2019))"
   date: '2021-04-03'
   image: paper_img/JMIR_2021.PNG
   link: https://doi.org/g8q2dd
@@ -294,8 +294,7 @@
   - Juhum Park
   - Jihwan P. Choi
   - Jae Youn Hwang
-  publisher: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCIE) (I.F.: 3.827, JCR: 85%(2019))
-    Sensing
+  publisher: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCIE) (I.F.: 3.827, JCR: 85%(2019))"
   date: '2021-03-26'
   image: paper_img/JSTARS_2021.PNG
   link: https://doi.org/g8q2dc
@@ -311,7 +310,7 @@
   - "**Haeyun Lee**"
   - Jucheol Won
   - Sunghyun Cho
-  publisher: European Conference on Computer Vision (ECCV 2020) (AI Top Conference)
+  publisher: "European Conference on Computer Vision (ECCV 2020) (AI Top Conference)"
   date: '2020-08-25'
   image: paper_img/eccv_2020.PNG
   link: https://doi.org/gjvvht
@@ -325,7 +324,7 @@
   authors:
   - "**Haeyun Lee**"
   - Sunghyun Cho
-  publisher: IEEE ACCESS (SCIE) (I.F.: 4.098, JCR: 85.48%(2018))
+  publisher: "IEEE ACCESS (SCIE) (I.F.: 4.098, JCR: 85.48%(2018))"
   date: '2020-02-14'
   image: paper_img/IEEE_ACCESS_2020.PNG
   link: https://doi.org/g7kms8
@@ -340,7 +339,7 @@
   - "**Haeyun Lee**"
   - Jinhyoung Park
   - Jae Youn Hwang
-  publisher: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE) (I.F.: 2.989, JCR: 73.44%(2018))
+  publisher: "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (SCIE) (I.F.: 2.989, JCR: 73.44%(2018))"
   date: '2020-02-10'
   image: paper_img/uffc_2020.PNG
   link: https://doi.org/gr2zsr
@@ -373,7 +372,7 @@
   - Juhum Park
   - Jae Youn Hwang
   - Jihwan P. Choi   
-  publisher: IEEE Geoscience and Remote Sensing Letters (SCIE) (I.F.: 2.893, JCR: 75.93%(2017))
+  publisher: "IEEE Geoscience and Remote Sensing Letters (SCIE) (I.F.: 2.893, JCR: 75.93%(2017))"
   date: '2018-09-27'
   image: paper_img/GRSL.PNG
   link: https://doi.org/g8q2dg
