@@ -11,14 +11,12 @@ links:
   email: haeyun@koreatech.ac.kr
 ---
 
-## Research Interests
-- Medical AI, Computer Vision, Multimodal Learning for Echocardiography
-- Robust/Interpretable Models for Diagnostic & Prognostic Support
 
 ## Education
-- **Ph.D., Information & Communication Engineering**, DGIST  
-  *Advisor: Prof. Jae Youn Hwang* · 2022
+- **Ph.D., Information & Communication Engineering**, DGIST · 2022
+  *Advisor: Prof. Jae Youn Hwang* · Thesis: Image Denoising Networks based on the Attention Mechanism for the Enhancement of Natural and Medical Images
 - **M.S., Information & Communication Engineering**, DGIST · 2018
+  *Advisor: Prof. Jae Youn Hwang* · Thesis: A Novel Hybrid Method for Objects Detection from a High-Resolution Satellite Image
 - **B.S., Mathematics**, Jeonbuk National University · 2016
   
 ## Work Experience
@@ -30,7 +28,9 @@ links:
 - See the **[Publications](/#publications)** page for the full list.  
 
 ## Awards & Honors
-
+- Paper Award, International Conference on Biomedical and Health Informatics (ICBHI) - 2021.11
+- National Science & Technology Scholarship, KOSAF - 2012.3
+  Full tuition exemptions for 8 semesters in BS. degree
 
 ## Teaching @ KOREATECH
 - Data Structure - 2025.2
@@ -38,6 +38,9 @@ links:
 - Intelligence Image System (graduate) - 2025.2
 
 ## Professional Activities (Service)
-- Reviewer/Program Committee: (학회/저널, 연도)  
-- (세션 체어/조직위원 등)
+- Reviewer :
+  AISTATS 2026,
+  IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, The Visual Computer
+- Program Committee :
+  The 6th Korea Artificial Intelligence Conference 
 
