@@ -1,3 +1,18 @@
+- id: doi:10.7840/kics.2025.50.10.1505
+  title: 'Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning and Multimodal BiomedCLIP Embeddings'
+  authors:
+  - "**Haeyun Lee<sup>*</sup>**"
+  - Kyunsu Lee
+  - Jihun Kim
+  publisher: 'The Journal of Korean Institute of Communications and Information Sciences (Scopus)'
+  date: '2025-09-01'
+  image: paper_img/2025_KICS.png
+  link: https://doi.org/10.7840/kics.2025.50.10.1505
+  orcid: 0000-0002-7572-1705
+  tags:
+    - medical image analysis
+    - anomaly detection
+
 - id: doi:10.1016/j.compbiomed.2025.110478
   title: 'Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms'
   authors:
