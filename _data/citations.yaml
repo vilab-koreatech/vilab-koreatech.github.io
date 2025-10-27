@@ -353,6 +353,22 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
+- title: Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning
+    and Multimodal BiomedCLIP Embeddings
+  authors:
+  - '**Haeyun Lee<sup>*</sup>**'
+  - Kyunsu Lee
+  - Jihun Kim
+  publisher: The Journal of Korean Institute of Communications and Information Sciences
+    (Scopus)
+  date: '2025-10-01'
+  image: paper_img/2025_JKICS.jpg
+  link: https://doi.org/10.7840/kics.2025.50.10.1505
+  tags:
+  - medical image analysis
+  - anomaly detection
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1561/116.00000169
   title: Multi-Scale Self-Attention Network for Denoising Medical Images
   authors:
