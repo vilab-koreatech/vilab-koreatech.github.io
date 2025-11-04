@@ -1,4 +1,5 @@
-- title: 'Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning and Multimodal BiomedCLIP Embeddings'
+- id: doi:10.7840/kics.2025.50.10.1505
+  title: 'Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning and Multimodal BiomedCLIP Embeddings'
   authors:
   - "**Haeyun Lee**"
   - Kyunsu Lee
