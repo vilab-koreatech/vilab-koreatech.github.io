@@ -1,3 +1,20 @@
+- title: 'Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection'
+  authors:
+  - Heechul Lim
+  - Minsoo Kim
+  - Hyun-Boo Lee
+  - Suk-Ju Kang
+  - "Kang-Wook Chon<sup>†</sup>"
+  - "**Haeyun Lee<sup>†</sup>**"
+  publisher: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026) (AI Top Conference)
+  date: '2026-03-01'
+  image: paper_img/AISTAT_2023.png
+  link: https://proceedings.mlr.press/v206/lee23a.html
+  tags:
+    - anomaly detection
+    - reverse distillation
+  description: '†Corresponding authors'
+
 - id: doi:10.7840/kics.2025.50.10.1505
   title: 'Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning and Multimodal BiomedCLIP Embeddings'
   authors:
