@@ -9,7 +9,6 @@
   publisher: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026) (AI Top Conference)
   date: '2026-03-01'
   image: paper_img/2026_WACV.png
-  link: https://proceedings.mlr.press/v206/lee23a.html
   tags:
     - anomaly detection
     - reverse distillation
