@@ -371,6 +371,23 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
+- title: Augmenting Construction Safety Datasets with Training-Free Diffusion-Based
+    PPE Editing
+  authors:
+  - Seong-Hyun Kim
+  - Mingseong Kim
+  - Sewoong Kim
+  - "**Haeyun Lee<sup>\u2020</sup>**"
+  publisher: The Journal of Korean Institute of Communications and Information Sciences
+    (Scopus)
+  date: '2026-05-01'
+  image: paper_img/2025_JKICS_PPE.png
+  tags:
+  - diffusion
+  - data augmentation
+  description: "\u2020Corresponding authors"
+  plugin: sources.py
+  file: sources.yaml
 - title: Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class
     Anomaly Detection
   authors:
