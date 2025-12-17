@@ -1,3 +1,17 @@
+- title: 'Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing'
+  authors:
+  - Seong-Hyun Kim
+  - Mingseong Kim
+  - Sewoong Kim
+  - "**Haeyun Lee<sup>†</sup>**"
+  publisher: 'The Journal of Korean Institute of Communications and Information Sciences (Scopus)'
+  date: '2026-05-01'
+  image: paper_img/2025_JKICS_PPE.png
+  tags:
+    - diffusion
+    - data augmentation
+  description: '†Corresponding authors'
+
 - title: 'Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection'
   authors:
   - Heechul Lim
@@ -6,7 +20,7 @@
   - Suk-Ju Kang
   - "Kang-Wook Chon<sup>†</sup>"
   - "**Haeyun Lee<sup>†</sup>**"
-  publisher: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026) (AI Top Conference)
+  publisher: 'The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026) (AI Top Conference)'
   date: '2026-03-01'
   image: paper_img/2026_WACV.png
   tags:
