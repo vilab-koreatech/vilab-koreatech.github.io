@@ -385,7 +385,7 @@
   tags:
   - diffusion
   - data augmentation
-  description: "\u2020Corresponding authors"
+  description: "\u2020Corresponding author"
   plugin: sources.py
   file: sources.yaml
 - title: Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class
