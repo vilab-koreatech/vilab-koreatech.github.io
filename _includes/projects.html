@@ -1,0 +1,48 @@
+{% assign items = site.data.projects | sort: "year" | reverse %}
+
+<div class="projects-grid">
+  {% for p in items %}
+    <div class="project-card">
+      <div class="project-header">
+        <div class="project-title">
+          {% if p.link and p.link != "" %}
+            <a href="{{ p.link }}">{{ p.title }}</a>
+          {% else %}
+            {{ p.title }}
+          {% endif %}
+        </div>
+
+        {% if p.year %}
+          <div class="project-year">{{ p.year }}</div>
+        {% endif %}
+      </div>
+
+      <div class="project-meta">
+        {% if p.org and p.org != "" %}
+          <div><span class="k">기관</span> <span class="v">{{ p.org }}</span></div>
+        {% endif %}
+        {% if p.program and p.program != "" %}
+          <div><span class="k">사업</span> <span class="v">{{ p.program }}</span></div>
+        {% endif %}
+        {% if p.role and p.role != "" %}
+          <div><span class="k">역할</span> <span class="v">{{ p.role }}</span></div>
+        {% endif %}
+        {% if p.status and p.status != "" %}
+          <div><span class="k">상태</span> <span class="v">{{ p.status }}</span></div>
+        {% endif %}
+      </div>
+
+      {% if p.description and p.description != "" %}
+        <div class="project-desc">{{ p.description }}</div>
+      {% endif %}
+
+      {% if p.tags and p.tags.size > 0 %}
+        <div class="project-tags">
+          {% for t in p.tags %}
+            <span class="tag">{{ t }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
