@@ -205,7 +205,7 @@
   image: paper_img/UFFC_2022.png
   tags:
   - medical image analysis
-  - image restoration
+  - speckle reduction
   - self-supervised learning
   description: '*Equally contributed'
 - id: doi:10.1109/TGRS.2021.3089623
@@ -313,7 +313,7 @@
   file: sources.yaml
   image: paper_img/IEEE_ACCESS_2020.PNG
   tags:
-  - image restoration
+  - image denoising
   - attention
 - id: doi:10.1007/978-3-030-58595-2_12
   title: Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
@@ -330,7 +330,7 @@
   file: sources.yaml
   image: paper_img/eccv_2020.PNG
   tags:
-  - image restoration
+  - image deblurring
   - dataset
 - id: doi:10.15701/kcgs.2019.25.3.1
   title: Image Restoration Network with Adaptive Channel Attention Modules for Combined
@@ -383,7 +383,7 @@
   image: paper_img/2026_CVPR.png
   status: submitted
   tags:
-  - deblurring
+  - video deblurring
   - dataset
   plugin: sources.py
   file: sources.yaml
@@ -455,7 +455,7 @@
   image: paper_img/APSIPA_2024.png
   tags:
   - medical image analysis
-  - image restoration
+  - image denoising
   description: '*Equally contributed'
   plugin: sources.py
   file: sources.yaml
