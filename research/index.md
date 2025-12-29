@@ -9,6 +9,10 @@ nav:
 
 {% include section.html %}
 
+## Submitted
+
+{% include list.html data="citations" component="citation" style="rich" %}
+
 ## Published
 
 {% include list.html data="citations" component="citation" style="rich" %}
