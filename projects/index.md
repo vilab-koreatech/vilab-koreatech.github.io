@@ -14,8 +14,6 @@ nav:
 {% include research_areas_text.html %}
 
 
-{% include section.html %}
-
 ## Projects
 
 {% include projects.html %}
