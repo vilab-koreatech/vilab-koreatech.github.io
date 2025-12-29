@@ -1,0 +1,42 @@
+{% assign areas = site.data.research_areas %}
+
+<div class="research-areas">
+  {% for a in areas %}
+    <section class="research-area">
+      <h2>{{ a.title }}</h2>
+
+      {% if a.description %}
+        <p class="research-desc">{{ a.description }}</p>
+      {% endif %}
+
+      {% if a.items and a.items.size > 0 %}
+        <ul class="research-list">
+          {% for it in a.items %}
+            <li class="research-item">
+              <strong>{{ it.title }}</strong>
+
+              {% if it.authors %}
+                <ul class="research-sub">
+                  <li>{{ it.authors }}</li>
+                </ul>
+              {% endif %}
+
+              {% if it.venue or (it.links and it.links.size > 0) %}
+                <ul class="research-sub">
+                  <li>
+                    {% if it.venue %}{{ it.venue }}{% endif %}
+                    {% if it.links and it.links.size > 0 %}
+                      {% for l in it.links %}
+                        <a class="pill-link" href="{{ l.url }}">[{{ l.text }}]</a>
+                      {% endfor %}
+                    {% endif %}
+                  </li>
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </section>
+  {% endfor %}
+</div>
