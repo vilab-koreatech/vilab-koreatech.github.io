@@ -5,7 +5,7 @@
   image: paper_img/2025_CIBM.png
   items:
     - title: "Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms”
-      authors: "**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang”
+      authors: "Haeyun Lee, Kyungsu Lee, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang”
       venue: "Computers in Biology and Medicine"
       links:
         - text: Project
