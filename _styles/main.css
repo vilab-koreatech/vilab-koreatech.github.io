@@ -69,4 +69,33 @@ main {
   opacity: 0.85;
 }
 
+.research-area h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-weight: 800;
+}
+
+.research-desc {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.research-list {
+  margin-left: 1.2rem;
+}
+
+.research-item {
+  margin: 0.6rem 0;
+}
+
+.research-sub {
+  margin-top: 0.35rem;
+  margin-left: 1.2rem;
+}
+
+.pill-link {
+  margin-left: 0.35rem;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=main.css.map */
