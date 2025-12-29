@@ -14,6 +14,22 @@
     - deblurring
     - dataset
 
+- title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
+  authors:
+  - Sung-Hyun Kim
+  - Sooyoung Noh
+  - Seungick Jung
+  - Changhyun Kim
+  - "**Haeyun Lee**"
+  - Jihun Kim
+  publisher: Under review
+  # image: paper_img/2026_CVPR.png
+  status: submitted
+  # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
+  tags:
+    - Trajectory Estimation
+    
+
 - title: 'Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing'
   authors:
   - Seong-Hyun Kim
