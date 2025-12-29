@@ -1,7 +1,7 @@
 - title: Medial Image Analysis
   description: >
-    While synthetically generated datasets have been widely used for training neural networks for image restoration,
-    such networks do not perform well on real-world images due to the significant domain gap...
+    We develop artificial intelligence–based methods for medical image analysis to support accurate diagnosis and clinical decision-making. Our research focuses on robust learning frameworks that handle variability across patients, devices, and institutions. 
+    By leveraging attention mechanisms, self-supervised learning, and adaptive inference strategies, we aim to enable reliable deployment of AI systems in real-world clinical environments.
   items:
     - title: "Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms”
       authors: "**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang”
@@ -18,7 +18,8 @@
         - text: Benchmarks
           url: "https://example.com"
 
-- title: Medical Application
+- title: Image Synthesis
   description: >
-    We develop artificial intelligence algorithms and systems for diagnostic and prognostic assistance in disease.
+    We explore image synthesis techniques tailored for medical imaging to address data scarcity and domain gaps between synthetic and real clinical data. Our work emphasizes realistic degradation modeling and restoration to generate medically meaningful images. 
+    These approaches facilitate effective training, benchmarking, and evaluation of medical imaging algorithms under practical clinical conditions.
   items: []
