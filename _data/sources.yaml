@@ -11,7 +11,7 @@
   status: submitted
   # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
   tags:
-    - deblurring
+    - video deblurring
     - dataset
 
 - title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
