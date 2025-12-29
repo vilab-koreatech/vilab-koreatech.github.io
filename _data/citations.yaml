@@ -380,6 +380,7 @@
   - Ke Wang
   - Sunghyun Cho
   publisher: Under review
+  image: paper_img/2026_CVPR.png
   status: submitted
   plugin: sources.py
   file: sources.yaml
