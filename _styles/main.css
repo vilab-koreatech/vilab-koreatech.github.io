@@ -1,3 +1,4 @@
+@charset "UTF-8";
 main {
   display: flex;
   flex-direction: column;
@@ -50,8 +51,9 @@ main {
 }
 
 .project-desc {
-  margin-top: 0.65rem;
-  opacity: 0.9;
+  margin-top: 1.2rem;
+  text-align: left; /* ← center → left */
+  font-weight: 500;
 }
 
 .project-tags {
@@ -96,6 +98,17 @@ main {
 .pill-link {
   margin-left: 0.35rem;
   text-decoration: none;
+}
+
+.research-figure {
+  margin: 1.5rem 0 1.2rem;
+  text-align: center;
+}
+
+.research-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
 
 /*# sourceMappingURL=main.css.map */
