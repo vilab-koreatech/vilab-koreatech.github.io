@@ -1,3 +1,13 @@
+- title: Test
+  authors:
+  - "**Haeyun Lee**"
+  - Test
+  - Test
+  publisher: 'Submitted to TEST'
+  status: submitted
+  date: '2025-09-01'
+  # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
+
 - title: 'Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing'
   authors:
   - Seong-Hyun Kim
