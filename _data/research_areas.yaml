@@ -2,6 +2,7 @@
   description: >
     We develop artificial intelligence–based methods for medical image analysis to support accurate diagnosis and clinical decision-making. Our research focuses on robust learning frameworks that handle variability across patients, devices, and institutions. 
     By leveraging attention mechanisms, self-supervised learning, and adaptive inference strategies, we aim to enable reliable deployment of AI systems in real-world clinical environments.
+  image: paper_img/2025_CIBM.png
   items:
     - title: "Expert-level differentiation of incomplete Kawasaki disease and pneumonia from echocardiography via multiple large receptive attention mechanisms”
       authors: "**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang”
