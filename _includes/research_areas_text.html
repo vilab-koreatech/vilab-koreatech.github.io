@@ -6,15 +6,14 @@
       <h2>{{ a.title }}</h2>
 
       {% if a.description %}
-        <p class="research-desc">{{ a.description }}</p>
+        <div class="research-desc">{{ a.description | markdownify }}</div>
       {% endif %}
 
       {% if a.image %}
         <div class="research-figure">
-        <img src="{{ a.image | relative_url }}" alt="{{ a.title }}">
+          <img src="{{ a.image | relative_url }}" alt="{{ a.title | escape }}">
         </div>
       {% endif %}
-
 
       {% if a.items and a.items.size > 0 %}
         <ul class="research-list">
@@ -28,13 +27,16 @@
                 </ul>
               {% endif %}
 
-              {% if it.venue or (it.links and it.links.size > 0) %}
+              {% assign has_links = it.links and it.links.size and it.links.size > 0 %}
+              {% if it.venue or has_links %}
                 <ul class="research-sub">
                   <li>
                     {% if it.venue %}{{ it.venue }}{% endif %}
-                    {% if it.links and it.links.size > 0 %}
+                    {% if has_links %}
                       {% for l in it.links %}
-                        <a class="pill-link" href="{{ l.url }}">[{{ l.text }}]</a>
+                        {% if l.url and l.text %}
+                          <a class="pill-link" href="{{ l.url }}">[{{ l.text }}]</a>
+                        {% endif %}
                       {% endfor %}
                     {% endif %}
                   </li>
