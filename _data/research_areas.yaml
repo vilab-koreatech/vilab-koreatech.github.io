@@ -8,17 +8,15 @@
       authors: "Haeyun Lee, Kyungsu Lee, Moon Hwan Lee, Sewoong Kim, Yongsoon Eun, Lucy Youngmin Eun, Jae Youn Hwang"
       venue: "Computers in Biology and Medicine"
       links:
-        - text: "Project"
-          url: "https://example.com"
+        - text: "Paper"
+          url: "https://10.1016/j.compbiomed.2025.110478"
 
-    - title: "Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms"
-      authors: "Jaesung Rim, Haeyun Lee, Jucheol Won, Sunghyun Cho"
-      venue: "ECCV 2020"
+    - title: "Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis"
+      authors: "Kyungsu Lee, Haeyun Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, Georges El Fakhri, Dong Hun Lee, Jonghye Woo, Jae Youn Hwang"
+      venue: "MICCAI 2023"
       links:
-        - text: "Project"
-          url: "https://example.com"
-        - text: "Benchmarks"
-          url: "https://example.com"
+        - text: "Paper"
+          url: "https://10.1007/978-3-031-43898-1_37"
 
 - title: Image Synthesis
   description: >
