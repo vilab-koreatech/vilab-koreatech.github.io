@@ -158,7 +158,7 @@
   link: https://10.1561/116.00000169
   tags:
     - medical image analysis
-    - image restoration
+    - image denoising
   description: '*Equally contributed'
 
 - id: doi:10.1097/scs.0000000000009560
@@ -295,7 +295,7 @@
   image: paper_img/UFFC_2022.png
   tags:
     - medical image analysis
-    - image restoration
+    - speckle reduction
     - self-supervised learning
   description: '*Equally contributed'
 
@@ -392,7 +392,7 @@
   link: https://doi.org/gjvvht
   orcid: 0000-0002-7572-1705
   tags:
-    - image restoration
+    - image deblurring
     - dataset
 
 - id: doi:10.1109/ACCESS.2020.2974001
@@ -406,7 +406,7 @@
   link: https://doi.org/g7kms8
   orcid: 0000-0002-7572-1705
   tags:
-    - image restoration
+    - image denoising
     - attention
 
 - id: doi:10.1109/tuffc.2020.2972573
