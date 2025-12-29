@@ -41,6 +41,7 @@ nav:
 {% capture text %}
 
 - 경량형 온디바이스용 다화자 TTS 프로토타입 구현, 충남연구원 (RISE 사업), PI, 2025
+- TEST
 
 {% endcapture %}
 
