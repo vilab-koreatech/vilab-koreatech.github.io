@@ -371,14 +371,16 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
-- title: Test
+- title: Gyro-based Deep Video Deblurring
   authors:
+  - Jaesung Rim
+  - Woohyeok Kim
   - '**Haeyun Lee**'
-  - Test
-  - Test
-  publisher: Submitted to TEST
+  - Heemin Yang
+  - Ke Wang
+  - Sunghyun Cho
+  publisher: Under review
   status: submitted
-  date: '2025-09-01'
   plugin: sources.py
   file: sources.yaml
 - title: Augmenting Construction Safety Datasets with Training-Free Diffusion-Based
