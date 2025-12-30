@@ -5,6 +5,10 @@
     <div class="project-card">
       <div class="project-header">
         <div class="project-title">
+          {%- if p.status and p.status != "" -%}
+            <span class="project-status project-status--{{ p.status | slugify }}">{{ p.status }}</span>
+          {%- endif -%}
+
           {% if p.link and p.link != "" %}
             <a href="{{ p.link }}">{{ p.title }}</a>
           {% else %}
@@ -27,14 +31,11 @@
         {% if p.role and p.role != "" %}
           <div><span class="k">역할</span> <span class="v">{{ p.role }}</span></div>
         {% endif %}
-        {% if p.status and p.status != "" %}
-          <div><span class="k">상태</span> <span class="v">{{ p.status }}</span></div>
+
+        {% if p.description and p.description != "" %}
+          <div><span class="k">내용</span> <span class="v">{{ p.description }}</span></div>
         {% endif %}
       </div>
-
-      {% if p.description and p.description != "" %}
-        <div class="project-desc">{{ p.description }}</div>
-      {% endif %}
 
       {% if p.tags and p.tags.size > 0 %}
         <div class="project-tags">
