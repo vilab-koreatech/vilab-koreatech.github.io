@@ -17,6 +17,7 @@ main {
   border-radius: 14px;
   padding: 1rem;
   background: rgba(255, 255, 255, 0.6);
+  text-align: left;
 }
 
 .project-header {
@@ -41,6 +42,7 @@ main {
   margin-top: 0.6rem;
   font-size: 0.95em;
   line-height: 1.45;
+  text-align: left;
 }
 
 .project-meta .k {
@@ -61,6 +63,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+  justify-content: flex-start;
 }
 
 .project-tags .tag {
