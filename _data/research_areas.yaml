@@ -9,17 +9,25 @@
       venue: "Computers in Biology and Medicine"
       links:
         - text: "Paper"
-          url: "https://10.1016/j.compbiomed.2025.110478"
+          url: "https://doi.org/10.1016/j.compbiomed.2025.110478"
 
     - title: "Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis"
       authors: "Kyungsu Lee, Haeyun Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, Georges El Fakhri, Dong Hun Lee, Jonghye Woo, Jae Youn Hwang"
       venue: "MICCAI 2023"
       links:
         - text: "Paper"
-          url: "https://10.1007/978-3-031-43898-1_37"
+          url: "https://doi.org/10.1007/978-3-031-43898-1_37"
 
 - title: Image Synthesis
   description: >
     We explore image synthesis techniques tailored for medical imaging to address data scarcity and domain gaps between synthetic and real clinical data. Our work emphasizes realistic degradation modeling and restoration to generate medically meaningful images.
     These approaches facilitate effective training, benchmarking, and evaluation of medical imaging algorithms under practical clinical conditions.
-  items: []
+  image: "paper_img/2025_SPL.png"
+  items:
+    - title: "Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis"
+      authors: "Haeyun Lee, Kyungsu Lee, Jong Pil Yoon, Jihun Kim, Jun-Young Kim"
+      venue: "IEEE Signal Processing Letters"
+      links:
+        - text: "Paper"
+          url: "https://doi.org/10.1109/LSP.2025.3557754"
+
