@@ -26,8 +26,13 @@
           {% endif %}
         </div>
 
-        {% if p.year %}
-          <div class="project-year">{{ p.year }}</div>
+        {% if p.start %}
+          <div class="project-year">
+            {{ p.start | replace: "-", "." }}
+            {% if p.end %}
+              –{{ p.end | replace: "-", "." }}
+            {% endif %}
+          </div>
         {% endif %}
       </div>
 
