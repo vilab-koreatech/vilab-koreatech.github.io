@@ -3,8 +3,8 @@
   program: RISE 사업
   role: PI
   year: 2025
-  status: 진행중
-  tags: [On-device, TTS, Multi-speaker]
+  status: 완료
+  tags: [On-device, TTS]
   description: 경량 모델 설계 및 프로토타입 구현(모바일/엣지 환경 가정).
   link: ""   # 링크 없으면 빈 문자열로 두면 됨
 
