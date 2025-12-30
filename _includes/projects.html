@@ -6,7 +6,17 @@
       <div class="project-header">
         <div class="project-title">
           {%- if p.status and p.status != "" -%}
-            <span class="project-status project-status--{{ p.status | slugify }}">{{ p.status }}</span>
+            {% if p.status and p.status != "" %}
+              <span class="project-status project-status--{{ p.status | slugify }}">
+                <span class="project-status__bracket">[</span>
+                {% if p.status == "진행중" %}
+                  In&nbsp;progress
+                {% elsif p.status == "완료" %}
+                  Completed
+                {% endif %}
+                <span class="project-status__bracket">]</span>
+              </span>
+            {% endif %}
           {%- endif -%}
 
           {% if p.link and p.link != "" %}
