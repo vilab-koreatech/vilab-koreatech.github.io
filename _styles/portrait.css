@@ -2,11 +2,12 @@
 .portrait-wrapper {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-  width: 100%; /* 중요: 전체 폭을 쓰게 */
-  max-width: none; /* 혹시 제한 있으면 해제 */
-  text-align: left; /* 부모가 center일 때 대비 */
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+  gap: 40px; /* 기존 portrait margin 대체(원하는 값으로) */
 }
 
 .portrait {
@@ -15,20 +16,25 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 20px;
+  margin: 0; /* 중요: wrapper의 gap으로 간격 관리 */
   width: 175px;
-  max-width: calc(100% - 20px - 20px);
+  flex: 0 0 175px; /* 중요: 한 줄에 여러 개 놓이게 고정 */
+  max-width: 175px; /* calc 때문에 줄어들며 1개씩 되는 경우 방지 */
   text-decoration: none;
 }
 
 .portrait[data-style=small] {
   width: 100px;
+  flex: 0 0 100px;
+  max-width: 100px;
 }
 
 .portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
   width: unset;
+  flex: 0 0 auto; /* tiny는 내용만큼 */
+  max-width: none;
   text-align: left;
 }
 
