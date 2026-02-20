@@ -1,12 +1,15 @@
 ---
 ---
 
-.portrait-wrapper{
-  display: flex;          /* 기존: contents */
+.portrait-wrapper {
+  display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 0;                 /* 원하면 간격 조절 가능 */
+
+  width: 100%;          /* 중요: 전체 폭을 쓰게 */
+  max-width: none;      /* 혹시 제한 있으면 해제 */
+  text-align: left;     /* 부모가 center일 때 대비 */
 }
 
 .portrait {
