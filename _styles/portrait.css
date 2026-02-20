@@ -1,5 +1,10 @@
+@charset "UTF-8";
 .portrait-wrapper {
-  display: contents;
+  display: flex; /* 기존: contents */
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 0; /* 원하면 간격 조절 가능 */
 }
 
 .portrait {
