@@ -371,6 +371,20 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
+- title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
+  authors:
+  - Sung-Hyun Kim
+  - Sooyoung Noh
+  - Seungick Jung
+  - Changhyun Kim
+  - '**Haeyun Lee**'
+  - Jihun Kim
+  publisher: Under review
+  status: submitted
+  tags:
+  - Trajectory Estimation
+  plugin: sources.py
+  file: sources.yaml
 - title: Gyro-based Deep Video Deblurring
   authors:
   - Jaesung Rim
@@ -385,20 +399,6 @@
   tags:
   - video deblurring
   - dataset
-  plugin: sources.py
-  file: sources.yaml
-- title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
-  authors:
-  - Sung-Hyun Kim
-  - Sooyoung Noh
-  - Seungick Jung
-  - Changhyun Kim
-  - '**Haeyun Lee**'
-  - Jihun Kim
-  publisher: Under review
-  status: submitted
-  tags:
-  - Trajectory Estimation
   plugin: sources.py
   file: sources.yaml
 - title: Augmenting Construction Safety Datasets with Training-Free Diffusion-Based
