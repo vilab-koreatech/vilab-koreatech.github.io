@@ -15,13 +15,9 @@
   {% assign data = year.items %}
 
   {% if years.size > 1 %}
-    <h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
     {% assign data = data | sort: "date" | reverse %}
   {% endif %}
-
-  {%- if include.component == "portrait" -%}
-  <div class="portrait-wrapper">
-  {%- endif -%}
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
@@ -58,12 +54,6 @@
       type=d.type
       url=d.url
       width=d.width
-      status=d.status
     %}
   {% endfor %}
-
-  {%- if include.component == "portrait" -%}
-  </div>
-  {%- endif -%}
-
 {% endfor %}
