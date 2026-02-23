@@ -21,7 +21,7 @@
   - Heemin Yang
   - Ke Wang
   - Sunghyun Cho
-  publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026) (AI Top Conference)'
+  publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026 (AI Top Conference)'
   date: '2026-06-01'
   image: paper_img/2026_CVPR.png
   # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
@@ -51,7 +51,7 @@
   - Suk-Ju Kang
   - "Kang-Wook Chon<sup>†</sup>"
   - "**Haeyun Lee<sup>†</sup>**"
-  publisher: 'The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026) (AI Top Conference)'
+  publisher: 'The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026 (AI Top Conference)'
   date: '2026-03-01'
   image: paper_img/2026_WACV.png
   tags:
@@ -193,7 +193,7 @@
   - Dong Hun Lee
   - Jonghye Woo
   - Jae Youn Hwang
-  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) (AI Top Conference)
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023 (AI Top Conference)
   date: '2023-10-01'
   image: paper_img/MICCAI_2023_FL.png
   link: https://doi.org/10.1007/978-3-031-43898-1_37
@@ -210,7 +210,7 @@
   - Georges El Fakhri
   - Jonghye Woo
   - Jae Youn Hwang
-  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2023) (AI Top Conference)
+  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2023 (AI Top Conference)
   date: '2023-10-01'
   image: paper_img/MICCAI_2023_Self_sup.png
   link: https://doi.org/10.1007/978-3-031-43907-0_52
@@ -241,7 +241,7 @@
   - Kyungsu Lee
   - "**Haeyun Lee**"
   - Jae Youn Hwang
-  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT 2023) (AI Top Conference)
+  publisher: International Conference on Artificial Intelligence and Statistics (AISTAT) 2023 (AI Top Conference)
   date: '2023-04-26'
   image: paper_img/AISTAT_2023.png
   link: https://proceedings.mlr.press/v206/lee23a.html
@@ -256,7 +256,7 @@
   - Jaeseung Yang
   - "**Haeyun Lee**"
   - Jae Youn Hwang
-  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips 2022) (AI Top Conference)
+  publisher: The Thirty-sixth Annual Conference on Neural Information Processing Systems (Neurips) 2022 (AI Top Conference)
   date: '2022-12-02'
   image: paper_img/neurips_2022.png
   link: https://doi.org/10.48550/arXiv.2210.11672
@@ -385,7 +385,7 @@
   - "**Haeyun Lee**"
   - Jucheol Won
   - Sunghyun Cho
-  publisher: European Conference on Computer Vision (ECCV 2020) (AI Top Conference)
+  publisher: 'European Conference on Computer Vision (ECCV) 2020 (AI Top Conference)'
   date: '2020-08-25'
   image: paper_img/eccv_2020.PNG
   link: https://doi.org/gjvvht
