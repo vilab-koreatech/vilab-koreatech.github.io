@@ -15,7 +15,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/2025_JKICS.jpg
-  status: published
   tags:
   - medical image analysis
   - anomaly detection
@@ -37,7 +36,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/2025_CIBM.png
-  status: published
   tags:
   - medical image analysis
   - attention mechanism
@@ -56,7 +54,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/ESWA_2025.png
-  status: published
   tags:
   - indoor localization
   - optimization
@@ -77,7 +74,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/2025_SPL.png
-  status: published
   tags:
   - medical image analysis
   - image restoration
@@ -122,7 +118,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/JCS_2023.jpeg
-  status: published
   tags:
   - medical image analysis
   - classification
@@ -146,7 +141,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/MICCAI_2023_FL.png
-  status: published
   tags:
   - medical image analysis
   - federated learning
@@ -188,7 +182,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/MICCAI_2023_Self_sup.png
-  status: published
   tags:
   - medical image analysis
   - domain adaptation
@@ -210,7 +203,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/UFFC_2022.png
-  status: published
   tags:
   - medical image analysis
   - speckle reduction
@@ -234,7 +226,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/TGRS_2021.png
-  status: published
   tags:
   - remote sensing
   - segmentation
@@ -265,7 +256,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/JMIR_2021.PNG
-  status: published
   tags:
   - medical image analysis
   - federated learning
@@ -289,7 +279,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/JSTARS_2021.PNG
-  status: published
   tags:
   - remote sensing
   - change detection
@@ -308,7 +297,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/uffc_2020.PNG
-  status: published
   tags:
   - medical image analysis
   - attention
@@ -324,7 +312,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/IEEE_ACCESS_2020.PNG
-  status: published
   tags:
   - image denoising
   - attention
@@ -342,7 +329,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/eccv_2020.PNG
-  status: published
   tags:
   - image deblurring
   - dataset
@@ -359,7 +345,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/kcgs.PNG
-  status: published
   tags:
   - image restoration
   - attention
@@ -382,7 +367,6 @@
   plugin: sources.py
   file: sources.yaml
   image: paper_img/GRSL.PNG
-  status: published
   tags:
   - remote sensing
   - segmentation
@@ -411,8 +395,8 @@
   - Sunghyun Cho
   publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR
     2026) (AI Top Conference)
+  date: '2026-06-01'
   image: paper_img/2026_CVPR.png
-  status: published
   tags:
   - video deblurring
   - dataset
@@ -429,7 +413,6 @@
     (Scopus)
   date: '2026-05-01'
   image: paper_img/2025_JKICS_PPE.png
-  status: published
   tags:
   - diffusion
   - data augmentation
@@ -449,7 +432,6 @@
     (WACV 2026) (AI Top Conference)
   date: '2026-03-01'
   image: paper_img/2026_WACV.png
-  status: published
   tags:
   - anomaly detection
   - reverse distillation
@@ -472,7 +454,6 @@
   link: https://10.1561/116.00000169
   author_notes: contributed equally to this work.
   image: paper_img/APSIPA_2024.png
-  status: published
   tags:
   - medical image analysis
   - image denoising
@@ -489,7 +470,6 @@
     2023) (AI Top Conference)
   date: '2023-04-26'
   image: paper_img/AISTAT_2023.png
-  status: published
   link: https://proceedings.mlr.press/v206/lee23a.html
   tags:
   - remote sensing
@@ -508,7 +488,6 @@
   date: '2022-12-02'
   link: https://doi.org/10.48550/arXiv.2210.11672
   image: paper_img/neurips_2022.png
-  status: published
   tags:
   - machine learning
   - activation function
@@ -542,7 +521,6 @@
   date: '2021-10-14'
   link: https://10.1109/ICCV48922.2021.00698
   image: paper_img/iccv_2021.PNG
-  status: published
   tags:
   - remote sensing
   - domain adaptation
