@@ -50,8 +50,6 @@ Jaesung Rim, Woohyeok Kim, **Haeyun Lee**, Heemin Yang, Ke Wang, Sunghyun Cho, �
 %}
 
 
-
-
 {% capture text %}
 
 Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup>, **Haeyun Lee<sup>†</sup>**, "Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection", IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV 2026).
@@ -98,5 +96,3 @@ Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup
   title="Our paper accepted to Computers in Biology and Medicine."
   text=text
 %}
-
-{% endcapture %}
