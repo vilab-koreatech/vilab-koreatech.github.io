@@ -24,7 +24,31 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
   link="contact"
   title="학부연구생/석사과정 모집합니다."
   text=text
+%
+
+{% capture text %}
+
+Jaesung Rim, Woohyeok Kim, **Haeyun Lee**, Heemin Yang, Ke Wang, Sunghyun Cho, “Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing”, IEEE/CVF Conference On Computer Vision And Pattern Recognition 2026 (CVPR 2026)
+
+{%
+  include button.html
+  link="research"
+  text="Browse our publications."
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="paper_img/2026_CVPR.png"
+  link="research"
+  title="Our paper accepted to CVPR 2026."
+  text=text
+%}
+
 
 
 {% capture text %}
@@ -34,7 +58,7 @@ Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup
 {%
   include button.html
   link="research"
-  text="Browse our publications"
+  text="Browse our publications."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -58,7 +82,7 @@ Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup
 {%
   include button.html
   link="research"
-  text="Browse our publications"
+  text="Browse our publications."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,25 +99,3 @@ Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup
 %}
 
 
-{% capture text %}
-
-**Haeyun Lee<sup>*</sup>**, Kyungsu Lee<sup>*</sup>, Jong Pil Yoon, Jihun Kim, Jun-Young Kim, "Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis", IEEE Signal Processing Letters
-
-{%
-  include button.html
-  link="research"
-  text="Browse our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="paper_img/ESWA_2025.png"
-  link="research"
-  title="Our paper accepted to IEEE Signal Processing Letters."
-  text=text
-%}
