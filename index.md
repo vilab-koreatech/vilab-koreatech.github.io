@@ -24,7 +24,7 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
   link="contact"
   title="학부연구생/석사과정 모집합니다."
   text=text
-%
+%}
 
 {% capture text %}
 
@@ -48,6 +48,7 @@ Jaesung Rim, Woohyeok Kim, **Haeyun Lee**, Heemin Yang, Ke Wang, Sunghyun Cho, �
   title="Our paper accepted to CVPR 2026."
   text=text
 %}
+
 
 
 
@@ -98,4 +99,4 @@ Heechul Lim, Min-Soo Kim, Hyun-Boo Lee, Suk-ju Kang, Kang-Wook Chun<sup>†</sup
   text=text
 %}
 
-
+{% endcapture %}
