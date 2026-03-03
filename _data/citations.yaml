@@ -374,7 +374,7 @@
 - title: Bayesian Multi-Class Segmentation for Remote Sensing, Integrating User Priors
     and Uncertainty
   authors:
-  - Yeongsu Kim
+  - Yeongsu Kim<sup>*</sup>
   - '**Haeyun Lee<sup>*</sup>**'
   - Seo-Yeon Choi
   - Kyungsu Lee
@@ -384,6 +384,7 @@
   tags:
   - Segmentation
   - Remote Sensing
+  description: '*Equally contributed'
   plugin: sources.py
   file: sources.yaml
 - title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
