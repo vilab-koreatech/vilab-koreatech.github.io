@@ -449,6 +449,7 @@
     2026 (AI Top Conference)
   date: '2026-03-01'
   image: paper_img/2026_WACV.png
+  link: https://openaccess.thecvf.com/content/WACV2026/papers/Lim_Enhancing_Reverse_Distillation_with_Core_Exemplar_Learning_for_Unified_Multi-Class_WACV_2026_paper.pdf
   tags:
   - anomaly detection
   - reverse distillation
