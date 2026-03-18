@@ -4,7 +4,7 @@
   - "**Haeyun Lee<sup>*</sup>**"
   - Seo-Yeon Choi
   - Kyungsu Lee
-  publisher: IEEE Transactions on Geoscience and Remote Sensing (SCIE)
+  publisher: 'IEEE Transactions on Geoscience and Remote Sensing (SCIE)  (I.F.: 8.6, JCR: 96.5% (2024))'
   date: '2026-06-01'
   image: paper_img/2026_TGRS.png
   # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
@@ -19,14 +19,16 @@
   - Sooyoung Noh
   - Seungick Jung
   - Changhyun Kim
-  - "**Haeyun Lee**"
-  - Jihun Kim
-  publisher: Under review
+  - "**Haeyun Lee<sup>†</sup>**"
+  - "Jihun Kim<sup>†</sup>"
+  publisher: 'IEEE Sensors Journal (SCIE)  (I.F.: 4.5, JCR: 80.8% (2024))'
+  date: '2026-06-01'
   image: paper_img/2026_SENSORS.jpg
-  status: submitted
+  # status: submitted
   # link: https://osf.io/abcd1        # 없으면 생략, 있으면 id: url:... 로도 가능
   tags:
     - Trajectory Estimation
+  description: '†Corresponding author'
 
 - title: Gyro-based Deep Video Deblurring
   authors:
