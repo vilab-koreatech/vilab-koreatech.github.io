@@ -371,23 +371,6 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
-- title: Bayesian Multi-Class Segmentation for Remote Sensing, Integrating User Priors
-    and Uncertainty
-  authors:
-  - Yeongsu Kim<sup>*</sup>
-  - '**Haeyun Lee<sup>*</sup>**'
-  - Seo-Yeon Choi
-  - Kyungsu Lee
-  publisher: 'IEEE Transactions on Geoscience and Remote Sensing (SCIE)  (I.F.: 8.6,
-    JCR: 96.5% (2024))'
-  date: '2026-03-05'
-  image: paper_img/2026_TGRS.png
-  tags:
-  - Segmentation
-  - Remote Sensing
-  description: '*Equally contributed'
-  plugin: sources.py
-  file: sources.yaml
 - title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
   authors:
   - Sung-Hyun Kim
@@ -396,12 +379,29 @@
   - Changhyun Kim
   - "**Haeyun Lee<sup>\u2020</sup>**"
   - "Jihun Kim<sup>\u2020</sup>"
-  publisher: 'IEEE Sensors Journal (SCIE)  (I.F.: 4.5, JCR: 80.8% (2024))'
+  publisher: 'IEEE Sensors Journal (SCIE) (I.F.: 4.5, JCR: 80.8% (2024))'
   date: '2026-06-01'
   image: paper_img/2026_SENSORS.jpg
   tags:
   - Trajectory Estimation
-  description: "\u2020Corresponding author"
+  description: "\u2020Corresponding author."
+  plugin: sources.py
+  file: sources.yaml
+- title: Bayesian Multi-Class Segmentation for Remote Sensing, Integrating User Priors
+    and Uncertainty
+  authors:
+  - Yeongsu Kim<sup>*</sup>
+  - '**Haeyun Lee<sup>*</sup>**'
+  - Seo-Yeon Choi
+  - Kyungsu Lee
+  publisher: 'IEEE Transactions on Geoscience and Remote Sensing (SCIE) (I.F.: 8.6,
+    JCR: 96.5% (2024))'
+  date: '2026-03-05'
+  image: paper_img/2026_TGRS.png
+  tags:
+  - Segmentation
+  - Remote Sensing
+  description: '*Equally contributed.'
   plugin: sources.py
   file: sources.yaml
 - title: Gyro-based Deep Video Deblurring
