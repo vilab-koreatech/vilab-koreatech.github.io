@@ -3,6 +3,7 @@
 
 ## News
 
+{% comment %}
 {% capture text %}
 
 VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICATIONS나 RESEARCH에서 관심 분야가 있다면 메일로 연락주시거나 직접 찾아와주세요.
@@ -25,6 +26,7 @@ VILAB에서 학부연구생 및 석사과정 학생들을 모집하니, PUBLICAT
   title="학부연구생/석사과정 모집합니다."
   text=text
 %}
+{% endcomment %}
 
 {% capture text %}
 
