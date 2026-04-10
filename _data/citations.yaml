@@ -3,18 +3,22 @@
 - id: doi:10.1109/JSEN.2026.3673719
   title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
   authors:
-  - Sunghyun Kim
+  - Sung-Hyun Kim
   - Sooyoung Noh
-  - Seungik Jeong
+  - Seungick Jung
   - Changhyun Kim
-  - Haeyun Lee
-  - Jihun Kim
-  publisher: IEEE Sensors Journal
-  date: '2026-01-01'
+  - "**Haeyun Lee<sup>\u2020</sup>**"
+  - "Jihun Kim<sup>\u2020</sup>"
+  publisher: 'IEEE Sensors Journal (SCIE) (I.F.: 4.5, JCR: 80.8% (2024))'
+  date: '2026-03-19'
   link: https://doi.org/hbtdrq
   orcid: 0000-0002-7572-1705
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: paper_img/2026_SENSORS.jpg
+  tags:
+  - Trajectory Estimation
+  description: "\u2020Corresponding author."
 - id: doi:10.7840/kics.2025.50.10.1505
   title: Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning
     and Multimodal BiomedCLIP Embeddings
@@ -386,22 +390,6 @@
   - remote sensing
   - segmentation
   description: '*Equally contributed'
-- title: Enhancing Trajectory Estimation with Convolutional IMU Transformer
-  authors:
-  - Sung-Hyun Kim
-  - Sooyoung Noh
-  - Seungick Jung
-  - Changhyun Kim
-  - "**Haeyun Lee<sup>\u2020</sup>**"
-  - "Jihun Kim<sup>\u2020</sup>"
-  publisher: 'IEEE Sensors Journal (SCIE) (I.F.: 4.5, JCR: 80.8% (2024))'
-  date: '2026-03-19'
-  image: paper_img/2026_SENSORS.jpg
-  tags:
-  - Trajectory Estimation
-  description: "\u2020Corresponding author."
-  plugin: sources.py
-  file: sources.yaml
 - title: Bayesian Multi-Class Segmentation for Remote Sensing, Integrating User Priors
     and Uncertainty
   authors:
