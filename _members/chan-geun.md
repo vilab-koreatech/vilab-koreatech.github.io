@@ -2,8 +2,9 @@
 name: Chan Geun Lee
 image: images/changeun.png
 role: undergrad
-affiliation: KOREATECH
 joined_order: 2
+description: Now at DGIST, MS Student in MBIS Lab
+affiliation: VILAB Alumni
 group: alum
 now: "Now at: DGIST"
 ---
