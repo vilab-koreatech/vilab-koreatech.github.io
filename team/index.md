@@ -25,7 +25,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   %}
 {% endfor %}
 
-## Graduate Students
 {% assign phd_members = site.members | where_exp: "m", "m.role == 'phd' and m.group != 'alum'" | sort: "joined_order" %}
 {% for m in phd_members %}
   {% include portrait.html
@@ -54,7 +53,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   %}
 {% endfor %}
 
-## Undergraduate Students
 {% assign ug_members = site.members | where_exp: "m", "m.role == 'undergrad' and m.group != 'alum'" | sort: "joined_order" %}
 {% for m in ug_members %}
   {% include portrait.html
