@@ -3,6 +3,7 @@ name: Chan Geun Lee
 image: images/changeun.png
 role: undergrad
 affiliation: KOREATECH
+joined_order: 2
 group: alum
 now: "Now at: DGIST"
 ---
