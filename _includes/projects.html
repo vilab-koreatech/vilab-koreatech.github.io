@@ -1,64 +1,115 @@
 {% assign items = site.data.projects | sort: "year" | reverse %}
 
+<h2>In progress</h2>
 <div class="projects-grid">
   {% for p in items %}
-    <div class="project-card">
-      <div class="project-header">
-        <div class="project-title">
-          {%- if p.status and p.status != "" -%}
-            {% if p.status and p.status != "" %}
-              <span class="project-status project-status--{{ p.status | slugify }}">
-                <span class="project-status__bracket">[</span>
-                {% if p.status == "진행중" %}
-                  In&nbsp;progress
-                {% elsif p.status == "완료" %}
-                  Completed
-                {% endif %}
-                <span class="project-status__bracket">]</span>
-              </span>
-            {% endif %}
-          {%- endif -%}
+    {% if p.status == "진행중" %}
+      <div class="project-card">
+        <div class="project-header">
+          <div class="project-title">
+            <span class="project-status project-status--{{ p.status | slugify }}">
+              <span class="project-status__bracket">[</span>
+              In&nbsp;progress
+              <span class="project-status__bracket">]</span>
+            </span>
 
-          {% if p.link and p.link != "" %}
-            <a href="{{ p.link }}">{{ p.title }}</a>
-          {% else %}
-            {{ p.title }}
+            {% if p.link and p.link != "" %}
+              <a href="{{ p.link }}">{{ p.title }}</a>
+            {% else %}
+              {{ p.title }}
+            {% endif %}
+          </div>
+
+          {% if p.start %}
+            <div class="project-year">
+              {{ p.start | replace: "-", "." }}
+              {% if p.end %}
+                –{{ p.end | replace: "-", "." }}
+              {% endif %}
+            </div>
           {% endif %}
         </div>
 
-        {% if p.start %}
-          <div class="project-year">
-            {{ p.start | replace: "-", "." }}
-            {% if p.end %}
-              –{{ p.end | replace: "-", "." }}
-            {% endif %}
+        <div class="project-meta">
+          {% if p.org and p.org != "" %}
+            <div><span class="k">기관</span> <span class="v">{{ p.org }}</span></div>
+          {% endif %}
+          {% if p.program and p.program != "" %}
+            <div><span class="k">사업</span> <span class="v">{{ p.program }}</span></div>
+          {% endif %}
+          {% if p.role and p.role != "" %}
+            <div><span class="k">역할</span> <span class="v">{{ p.role }}</span></div>
+          {% endif %}
+          {% if p.description and p.description != "" %}
+            <div><span class="k">내용</span> <span class="v">{{ p.description }}</span></div>
+          {% endif %}
+        </div>
+
+        {% if p.tags and p.tags.size > 0 %}
+          <div class="project-tags">
+            {% for t in p.tags %}
+              <span class="tag">{{ t }}</span>
+            {% endfor %}
           </div>
         {% endif %}
       </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
-      <div class="project-meta">
-        {% if p.org and p.org != "" %}
-          <div><span class="k">기관</span> <span class="v">{{ p.org }}</span></div>
-        {% endif %}
-        {% if p.program and p.program != "" %}
-          <div><span class="k">사업</span> <span class="v">{{ p.program }}</span></div>
-        {% endif %}
-        {% if p.role and p.role != "" %}
-          <div><span class="k">역할</span> <span class="v">{{ p.role }}</span></div>
-        {% endif %}
+<h2>Completed</h2>
+<div class="projects-grid">
+  {% for p in items %}
+    {% if p.status == "완료" %}
+      <div class="project-card">
+        <div class="project-header">
+          <div class="project-title">
+            <span class="project-status project-status--{{ p.status | slugify }}">
+              <span class="project-status__bracket">[</span>
+              Completed
+              <span class="project-status__bracket">]</span>
+            </span>
 
-        {% if p.description and p.description != "" %}
-          <div><span class="k">내용</span> <span class="v">{{ p.description }}</span></div>
+            {% if p.link and p.link != "" %}
+              <a href="{{ p.link }}">{{ p.title }}</a>
+            {% else %}
+              {{ p.title }}
+            {% endif %}
+          </div>
+
+          {% if p.start %}
+            <div class="project-year">
+              {{ p.start | replace: "-", "." }}
+              {% if p.end %}
+                –{{ p.end | replace: "-", "." }}
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+
+        <div class="project-meta">
+          {% if p.org and p.org != "" %}
+            <div><span class="k">기관</span> <span class="v">{{ p.org }}</span></div>
+          {% endif %}
+          {% if p.program and p.program != "" %}
+            <div><span class="k">사업</span> <span class="v">{{ p.program }}</span></div>
+          {% endif %}
+          {% if p.role and p.role != "" %}
+            <div><span class="k">역할</span> <span class="v">{{ p.role }}</span></div>
+          {% endif %}
+          {% if p.description and p.description != "" %}
+            <div><span class="k">내용</span> <span class="v">{{ p.description }}</span></div>
+          {% endif %}
+        </div>
+
+        {% if p.tags and p.tags.size > 0 %}
+          <div class="project-tags">
+            {% for t in p.tags %}
+              <span class="tag">{{ t }}</span>
+            {% endfor %}
+          </div>
         {% endif %}
       </div>
-
-      {% if p.tags and p.tags.size > 0 %}
-        <div class="project-tags">
-          {% for t in p.tags %}
-            <span class="tag">{{ t }}</span>
-          {% endfor %}
-        </div>
-      {% endif %}
-    </div>
+    {% endif %}
   {% endfor %}
 </div>
