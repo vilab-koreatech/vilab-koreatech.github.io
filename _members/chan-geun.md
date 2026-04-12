@@ -3,8 +3,7 @@ name: Chan Geun Lee
 image: images/changeun.png
 role: undergrad
 joined_order: 2
-description: Now at DGIST, MS Student in MBIS Lab
-affiliation: VILAB Alumni
+description: Now at DGIST, MS Student
 group: alum
 now: "Now at: DGIST"
 ---
