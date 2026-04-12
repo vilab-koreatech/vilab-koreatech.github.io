@@ -5,7 +5,7 @@
 
 {% capture text %}
 
-Jaesung Rim, Woohyeok Kim, **Haeyun Lee**, Heemin Yang, Ke Wang, Sunghyun Cho, “Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing”, IEEE/CVF Conference On Computer Vision And Pattern Recognition 2026 (CVPR 2026)
+Jaesung Rim, Woohyeok Kim, **Haeyun Lee**, Heemin Yang, Ke Wang, Sunghyun Cho, “Gyro-based Deep Video Deblurring”, IEEE/CVF Conference On Computer Vision And Pattern Recognition 2026 (CVPR 2026)
 
 {%
   include button.html
