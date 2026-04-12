@@ -1,7 +1,18 @@
+- title: 고속 검색 기반 사실형 영상 합성 기술개발
+  org: 정보통신기획평가원
+  program: 디지털미디어이노베이션기술개발 사업
+  # role: PI
+  start: 2026-04
+  end: 2028-12
+  status: 진행중 # 진행중 or 완료
+  tags: [Outpainting, Super-resolution]
+  description: .
+  link: ""   # 링크 없으면 빈 문자열로 두면 됨
+
 - title: 경량형 온디바이스용 다화자 TTS 프로토타입 구현
   org: 충남연구원
   program: RISE 사업
-  role: PI
+  # role: PI
   start: 2025-09
   end: 2025-12
   status: 완료 # 진행중 or 완료
