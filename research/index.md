@@ -13,5 +13,4 @@ nav:
 {% include list.html data="citations" component="citation" style="rich" filter="status =~ /submitted|under review/i" %}
 
 ## Published
-
 {% include list.html data="citations" component="citation" style="rich" filter="status !~ /submitted|under review/i" %}
