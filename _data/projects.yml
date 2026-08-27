@@ -15,6 +15,16 @@
 # 아래는 형식을 보여주기 위한 예시입니다. 실제 과제로 교체하세요.
 # =============================================================================
 
+- title: '진단 자연어 조건부 Anatomy-Informed 생성형 AI를 이용한 환자맞춤형 초음파 치료과정 설명 이미지 생성 기술 개발'
+  agency: '한국연구재단 (NRF)'
+  program: '기본연구'
+  role: 'PI'
+  start: '2026-09'
+  end: '2029-08'
+  status: 'ongoing'
+  summary: '의료 영상 데이터 편집 기술 개발'
+  tags: ['Medical Image Synthesis', 'Image Inpainting']
+
 - title: '고속 검색 기반 사실형 영상 합성 기술개발'
   agency: '정보통신기획평가원 (IITP)'
   program: '디지털미디어이노베이션기술개발 사업'
