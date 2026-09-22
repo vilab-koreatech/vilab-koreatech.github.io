@@ -1,13 +1,20 @@
 # Newest first. `thumb` is optional — omit it and a grid pattern shows instead.
+- title: "Our paper accepted to ACCV 2026"
+  date:  2026-09-23
+  tags:  [News, Paper]
+  url:   "#"
+  thumb: "/assets/img/pubs/2026_ACCV.PNG"
+  excerpt: "Sakang Hong, Haeyun Lee, Gunha Hong, Jinyoung Jung, Sanga Ahn, Kyungsu Lee, 
+            /“SFXGraph: Causal-Compositional Graph Learning for Stylized Sound Effects in Webtoons"
+
 - title: "Our paper accepted to Knowledge-Based Systems"
-  date:  2026-03-01
+  date:  2026-07-31
   tags:  [News, Paper]
   url:   "#"
   thumb: "/assets/img/pubs/2026_KBS.jpg"
   excerpt: "Eunsun Yun, Heechul Lim, Haeyun Lee, Kang-Wook Chon, Minjoong Jeong, 
             /“QueCo: Query-Conditioned Consensus over Unverified Evidence for Training-Free Zero-Shot Anomaly Detection/”, 
             Knowledge-Based Systems"
-
 
 - title: "Our paper accepted to CVPR 2026"
   date:  2026-03-01

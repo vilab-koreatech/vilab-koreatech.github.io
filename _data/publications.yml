@@ -20,6 +20,18 @@
 # =============================================================================
 
 # ------------------------------- 2026 -------------------------------
+- year: 2026
+  date: '2026-12-01'
+  title: 'SFXGraph: Causal-Compositional Graph Learning for Stylized Sound Effects in Webtoons'
+  authors: 'Sakang Hong, <strong>Haeyun Lee</strong>, Gunha Hong, Jinyoung Jung, Sanga Ahn, Kyungsu Lee'
+  venue: '18th Asian Conference on Computer Vision (ACCV) 2026'
+  metrics: 'AI Top Conference'
+  # doi: '10.1016/j.knosys.2026.116771'
+  thumb: '/assets/img/pubs/2026_ACCV.PNG'
+  tags: ['Graph Parsing']
+  # links:
+  #   - { label: 'Paper', url: 'https://doi.org/10.1016/j.knosys.2026.116771' }
+
 
 - year: 2026
   date: '2026-07-31'
