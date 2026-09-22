@@ -5,7 +5,7 @@ title:       "Visual Intelligence"
 title_long:  "Visual Intelligence Lab"
 tagline:     "Visual Intelligence"
 description: "Visual Intelligence Lab — generative models for natural and medical image synthesis."
-url:         "https://vilab-group.github.io"   # your GitHub Pages origin
+url:         "https://vilab-koreatech.github.io"   # your GitHub Pages origin
 baseurl:     ""                             # "/repo-name" if not a user site
 
 institution: "School of Computer Science and Engineering"
@@ -19,7 +19,7 @@ contact:
   map_embed: "https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x357b2ac473ccb835%3A0x153e00c065b63f28!2z7ZWc6rWt6riw7Iig6rWQ7Jyh64yA7ZWZ6rWQIOqzte2VmTLqtIA!5e0!3m2!1sko!2skr!4v1786688487539!5m2!1sko!2skr"
 
 social:
-  github:  "https://github.com/vilab-group"
+  github:  "https://github.com/vilab-koreatech"
   scholar: "https://scholar.google.com/citations?user=LnK-0NYAAAAJ"
 
 # ---------------------------------------------------------------
