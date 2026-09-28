@@ -4,7 +4,7 @@
 title:       "Visual Intelligence"
 title_long:  "Visual Intelligence Lab"
 tagline:     "Visual Intelligence"
-description: "Visual Intelligence Lab — generative models for natural and medical image synthesis."
+description: "Visual Intelligence Lab — image and video restoration, controllable image synthesis, and visual understanding."
 url:         "https://vilab-koreatech.github.io"   # your GitHub Pages origin
 baseurl:     ""                             # "/repo-name" if not a user site
 

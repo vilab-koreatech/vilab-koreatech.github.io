@@ -14,6 +14,8 @@
 #   doi      DOI (표시용 아님, 나중에 BibTeX·Crossref 연동용으로 보관)
 #   thumb    썸네일 경로. paper_img 폴더를 저장소 루트에 그대로 두면 됩니다
 #   tags     주제 태그 (현재 미노출, 향후 필터링용)
+#   area     Research 페이지에 묶일 연구 분야 ID 하나 (SYN / RES / USE).
+#            2024년 이후 논문만 표시되며, 논문 하나는 한 분야에만 속합니다.
 #   links    버튼으로 렌더링됨
 #
 # 새 논문은 맨 위에 추가하세요.
@@ -36,6 +38,7 @@
 - year: 2026
   date: '2026-07-31'
   title: 'QueCo: Query-Conditioned Consensus over Unverified Evidence for Training-Free Zero-Shot Anomaly Detection'
+  area: 'USE'
   authors: 'Eunsun Yun, Heechul Lim, <strong>Haeyun Lee</strong>, Kang-Wook Chon, Minjoong Jeong'
   venue: 'Knowledge-Based Systems'
   metrics: 'SCIE · I.F. 8.0 · JCR 84.0% (2025)'
@@ -48,6 +51,7 @@
 - year: 2026
   date: '2026-06-01'
   title: 'Gyro-based Deep Video Deblurring'
+  area: 'RES'
   authors: 'Jaesung Rim, Woohyeok Kim, <strong>Haeyun Lee</strong>, Heemin Yang, Ke Wang, Sunghyun Cho'
   venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026'
   metrics: 'AI Top Conference'
@@ -72,6 +76,7 @@
 - year: 2026
   date: '2026-05-01'
   title: 'Augmenting Construction Safety Datasets with Training-Free Diffusion-Based PPE Editing'
+  area: 'SYN'
   authors: 'Seong-Hyun Kim, Mingseong Kim, Sewoong Kim, <strong>Haeyun Lee<sup>†</sup></strong>'
   venue: 'The Journal of Korean Institute of Communications and Information Sciences'
   metrics: 'Scopus'
@@ -85,6 +90,7 @@
 - year: 2026
   date: '2026-03-05'
   title: 'Bayesian Multi-Class Segmentation for Remote Sensing, Integrating User Priors and Uncertainty'
+  area: 'USE'
   authors: 'Yeongsu Kim<sup>*</sup>, <strong>Haeyun Lee<sup>*</sup></strong>, Seo-Yeon Choi, Kyungsu Lee'
   venue: 'IEEE Transactions on Geoscience and Remote Sensing'
   metrics: 'SCIE · I.F. 8.6 · JCR 96.5% (2024)'
@@ -97,6 +103,7 @@
 - year: 2026
   date: '2026-03-01'
   title: 'Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection'
+  area: 'USE'
   authors: 'Heechul Lim, Minsoo Kim, Hyun-Boo Lee, Suk-Ju Kang, Kang-Wook Chon<sup>†</sup>, <strong>Haeyun Lee<sup>†</sup></strong>'
   venue: 'The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026'
   metrics: 'AI Top Conference'
@@ -111,6 +118,7 @@
 - year: 2025
   date: '2025-10-01'
   title: 'Few-Shot Anomaly Detection for Medical Ultrasound Images Using Metric Learning and Multimodal BiomedCLIP Embeddings'
+  area: 'USE'
   authors: '<strong>Haeyun Lee</strong>, Kyunsu Lee, Jihun Kim'
   venue: 'The Journal of Korean Institute of Communications and Information Sciences'
   metrics: 'Scopus'
@@ -149,6 +157,7 @@
 - year: 2025
   date: '2025-04-03'
   title: 'Real-Time Self-Supervised Ultrasound Image Enhancement Using Test-Time Adaptation for Sophisticated Rotator Cuff Tear Diagnosis'
+  area: 'RES'
   authors: '<strong>Haeyun Lee<sup>*</sup></strong>, Kyungsu Lee<sup>*</sup>, Jong Pil Yoon, Jihun Kim, Jun-Young Kim'
   venue: 'IEEE Signal Processing Letters'
   metrics: 'SCIE · I.F. 3.2 · JCR 63.3% (2023)'
@@ -162,6 +171,7 @@
 - year: 2025
   date: '2025-01-23'
   title: 'Connectome Mapping: Shape-Memory Network via Interpretation of Contextual Semantic Information'
+  area: 'RES'
   authors: 'Kyungsu Lee, <strong>Haeyun Lee</strong>, Jae Youn Hwang'
   venue: 'The Thirteenth International Conference on Learning Representations (ICLR 2025)'
   metrics: 'AI Top Conference'
@@ -177,6 +187,7 @@
 - year: 2024
   date: '2024-03-25'
   title: 'Fine-Grained Binary Object Segmentation in Remote Sensing Imagery via Path-Selective Test-Time Adaptation'
+  area: 'USE'
   authors: 'Kyungsu Lee, <strong>Haeyun Lee</strong>, Juhum Park, Jae Youn Hwang'
   venue: 'IEEE Transactions on Geoscience and Remote Sensing'
   metrics: 'SCIE · I.F. 8.2 · JCR 94.8% (2022)'
@@ -189,6 +200,7 @@
 - year: 2024
   date: '2024-01-22'
   title: 'Multi-Scale Self-Attention Network for Denoising Medical Images'
+  area: 'RES'
   authors: 'Kyungsu Lee<sup>*</sup>, <strong>Haeyun Lee<sup>*</sup></strong>, Moon Hwan Lee, C-C Jay Kuo, Seung-June Oh, Jonghye Woo, Jae Youn Hwang'
   venue: 'APSIPA Transactions on Signal and Information Processing'
   metrics: 'SCOPUS · I.F. 3.2 (2022)'

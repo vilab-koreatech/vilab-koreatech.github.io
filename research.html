@@ -6,10 +6,17 @@ lede: Everyday photos, video and aerial imagery look like different worlds.
       The modelling problems underneath them are close to identical.
 permalink: /research/
 ---
-<section class="band">
+{%- comment -%}
+  Each project and publication carries a single `area` ID in _data, so an
+  item can only ever appear under one research area. Publications are
+  limited to 2024 onwards.
+{%- endcomment -%}
+<section class="band band--tint">
   <div class="shell">
     <div class="researchList">
       {%- for area in site.data.research %}
+      {%- assign aprojects = site.data.projects | where: "area", area.id %}
+      {%- assign apubs = site.data.publications | where: "area", area.id | where_exp: "p", "p.year >= 2024" | sort: "date" | reverse %}
       <article class="researchItem" id="{{ area.id | downcase }}">
         <span class="researchItem__id">{{ area.id }}</span>
         <div>
@@ -18,6 +25,41 @@ permalink: /research/
           <div class="chipRow">
             {%- for t in area.tags %}<span class="chip chip--light">{{ t }}</span>{% endfor %}
           </div>
+
+          {%- if aprojects.size > 0 or apubs.size > 0 %}
+          <div class="researchItem__related">
+            {%- if aprojects.size > 0 %}
+            <div class="related">
+              <p class="related__label">Projects</p>
+              <ul class="related__list">
+                {%- for pr in aprojects %}
+                <li>
+                  <span class="related__title">{{ pr.title }}</span>
+                  <span class="related__meta">{{ pr.agency }}{% if pr.program %} · {{ pr.program }}{% endif %} · {{ pr.start }} – {{ pr.end }} · {{ pr.role }}</span>
+                </li>
+                {%- endfor %}
+              </ul>
+            </div>
+            {%- endif %}
+            {%- if apubs.size > 0 %}
+            <div class="related">
+              <p class="related__label">Publications <span>· 2024–</span></p>
+              <ul class="related__list">
+                {%- for pub in apubs %}
+                {%- assign purl = pub.links[0].url %}
+                {%- if pub.doi %}{% assign purl = "https://doi.org/" | append: pub.doi %}{% endif %}
+                <li>
+                  {%- if purl %}<a class="related__title" href="{{ purl }}">{{ pub.title }}</a>
+                  {%- else %}<span class="related__title">{{ pub.title }}</span>{% endif %}
+                  {%- assign ystr = pub.year | append: "" %}
+                  <span class="related__meta">{{ pub.venue }}{% unless pub.venue contains ystr %} · {{ pub.year }}{% endunless %}</span>
+                </li>
+                {%- endfor %}
+              </ul>
+            </div>
+            {%- endif %}
+          </div>
+          {%- endif %}
         </div>
       </article>
       {%- endfor %}

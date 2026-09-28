@@ -351,19 +351,58 @@ p { margin: 0 0 1em; }
 .researchList { display: grid; gap: 1px; background: var(--line); }
 
 .researchItem {
-  background: var(--paper);
+  background: var(--white);
   display: grid;
   grid-template-columns: 84px 1fr;
   gap: 8px 28px;
-  padding: 32px 4px;
+  padding: 36px 4px;
   align-items: start;
 }
 .researchItem__id {
-  font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.1em;
-  color: var(--blue-lt); padding-top: 6px;
+  font-family: var(--mono); font-size: 0.76rem; font-weight: 500; letter-spacing: 0.1em;
+  color: var(--blue); padding-top: 6px;
 }
-.researchItem h3 { margin-bottom: 10px; font-size: 1.4rem; }
-.researchItem p { color: var(--slate); margin: 0 0 14px; max-width: 68ch; }
+.researchItem h3 { margin-bottom: 10px; font-size: 1.4rem; color: var(--navy); }
+.researchItem p { color: #33475E; margin: 0 0 14px; max-width: 68ch; }
+.researchItem .chip--light { color: #3D526B; border-color: #C9D7E6; }
+
+/* Projects and publications tied to one research area. */
+.researchItem__related {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12px 36px;
+  margin-top: 26px; padding-top: 22px; border-top: 1px dashed var(--line);
+}
+.related:only-child { grid-column: 1 / -1; }
+.related:only-child .related__list { columns: 2; column-gap: 36px; }
+.related:only-child .related__list li { break-inside: avoid; }
+.related__label {
+  font-family: var(--mono); font-size: 0.72rem; font-weight: 500;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--blue) !important; margin: 0 0 10px !important;
+}
+.related__label span { color: var(--slate); letter-spacing: 0.06em; }
+.related__list { list-style: none; margin: 0; padding: 0; }
+.related__list li {
+  padding: 9px 0 9px 14px; position: relative;
+  border-bottom: 1px solid #EDF2F8;
+}
+.related__list li:last-child { border-bottom: 0; }
+.related__list li::before {
+  content: ""; position: absolute; left: 0; top: 17px;
+  width: 5px; height: 5px; border-radius: 50%; background: var(--blue-lt);
+}
+.related__title {
+  display: block; font-size: 0.93rem; font-weight: 500; line-height: 1.45;
+  color: var(--navy);
+}
+a.related__title:hover { color: var(--blue-lt); }
+.related__meta {
+  display: block; margin-top: 3px;
+  font-size: 0.8rem; line-height: 1.45; color: #52667E;
+}
+@media (max-width: 860px) {
+  .researchItem__related { grid-template-columns: 1fr; }
+  .related:only-child .related__list { columns: 1; }
+}
 
 .chipRow { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {

@@ -12,28 +12,29 @@ layout: default
   <div class="shell hero__body">
     <p class="eyebrow eyebrow--onDark">{{ site.institution }} · {{ site.university }}</p>
 
-    <h1>Image synthesis, held to two standards:
+    <h1>Restoring and generating images, held to two standards:
         <em>looking right, and being right</em>.</h1>
 
     <div class="hero__split">
       <p class="lede">
-        {{ site.title_long | default: site.title }} builds generative models for
-        images. A synthetic photograph only has to convince the eye. A synthetic
-        scan has to be anatomically faithful enough to train on — and to trust.
-        We work across both because the harder standard is where the interesting
-        problems live.
+        {{ site.title_long | default: site.title }} builds models that recover
+        clean images and video from degraded captures, and that generate new
+        ones under precise control. Looking right only has to convince the eye.
+        Being right means staying faithful enough to measure, train on and
+        trust — that harder standard is where the interesting problems live.
       </p>
 
       <div class="hero__domains">
         <div class="domain">
-          <p class="domain__label"><span>01</span> Natural images</p>
-          <p>Controllable generation and editing at high fidelity — and giving
-             the user a real handle on what changes and what stays.</p>
+          <p class="domain__label"><span>01</span> Restoration</p>
+          <p>Denoising, deblurring, outpainting and super-resolution — from RAW
+             sensor data to broadcast video — that recovers what was really
+             there.</p>
         </div>
         <div class="domain">
-          <p class="domain__label"><span>02</span> Medical images</p>
-          <p>Synthesis where data is scarce and mistakes are expensive: anatomy
-             that holds together, pathology that a clinician finds plausible.</p>
+          <p class="domain__label"><span>02</span> Synthesis</p>
+          <p>Controllable generation and editing, and synthetic data that
+             actually trains detection, segmentation and anomaly models.</p>
         </div>
       </div>
     </div>
