@@ -5,13 +5,13 @@
             everything else changes."
   tags: ["Diffusion models", "Controllable generation", "Image editing"]
 
-- id: "MED"
-  title: "Medical image synthesis"
-  summary: "Generating scans for the cases the archive never collected: rare
-            pathology, under-represented scanners, counterfactual 'what would
-            this look like without the lesion'. Anatomy has to survive the
-            generation, not just the eye test."
-  tags: ["Anatomy-faithful", "Counterfactual", "Data scarcity", "Privacy"]
+- id: "RES"
+  title: "Image restoration"
+  summary: "Recovering a clean, faithful image from a degraded capture — noise,
+            blur, low light, compression and missing regions — across photos,
+            video, RAW sensor data and scientific imaging. The restored result
+            has to be right, not just look right."
+  tags: ["Denoising", "Video restoration", "Inpainting & outpainting", "RAW imaging"]
 
 - id: "USE"
   title: "Synthetic data for downstream tasks"

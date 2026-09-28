@@ -2,11 +2,11 @@
 layout: page
 title: Research
 eyebrow: Research
-lede: Medical scans and aerial imagery look like different worlds. The
-      modelling problems underneath them are close to identical.
+lede: Everyday photos, video and aerial imagery look like different worlds.
+      The modelling problems underneath them are close to identical.
 permalink: /research/
 ---
-<section class="band band--dark">
+<section class="band">
   <div class="shell">
     <div class="researchList">
       {%- for area in site.data.research %}
@@ -16,7 +16,7 @@ permalink: /research/
           <h3>{{ area.title }}</h3>
           <p>{{ area.summary | strip_newlines }}</p>
           <div class="chipRow">
-            {%- for t in area.tags %}<span class="chip">{{ t }}</span>{% endfor %}
+            {%- for t in area.tags %}<span class="chip chip--light">{{ t }}</span>{% endfor %}
           </div>
         </div>
       </article>
