@@ -12,8 +12,8 @@ D = ROOT / "_data"
 
 load = lambda n: yaml.safe_load((D / n).read_text(encoding="utf-8"))
 import base64
-_svg = (ROOT / "assets/img/favicon.svg").read_bytes()
-ICON = "data:image/svg+xml;base64," + base64.b64encode(_svg).decode()
+_logo = (ROOT / "assets/img/logo/vi-wordmark-ondark-medium.svg").read_bytes()
+LOGO = "data:image/svg+xml;base64," + base64.b64encode(_logo).decode()
 news, research, pubs = load("news.yml"), load("research.yml"), load("publications.yml")
 projects, members, alumni = load("projects.yml"), load("members.yml"), load("alumni.yml")
 css = (ROOT / "assets/css/main.css").read_text(encoding="utf-8")
@@ -271,9 +271,7 @@ doc = f"""<!doctype html>
 <header class="masthead">
   <div class="shell masthead__row">
     <a class="brand" href="#home">
-      <img class="brand__icon" src="{ICON}" alt="" width="26" height="26">
-      <span class="brand__mark">{SITE['title']}</span>
-      <span class="brand__sub">{SITE['tagline']}</span>
+      <img class="brand__logo" src="{LOGO}" alt="{e(SITE['title_long'])}" width="154" height="44">
     </a>
     <button class="navToggle" aria-expanded="false" aria-controls="primaryNav">Menu</button>
     <nav class="nav" id="primaryNav" aria-label="Primary">
