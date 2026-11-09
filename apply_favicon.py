@@ -2,6 +2,12 @@
 """
 apply_favicon.py — 로고 파일 하나로 사이트에 필요한 아이콘 전부를 생성합니다.
 
+!! 2026-11 모노라인 워드마크 적용 이후에는 사용하지 마세요.
+   현재 아이콘(assets/img/favicon-*.png, favicon.ico, apple-touch-icon.png,
+   icon-192/512.png, brand-mark.png)은 로고 kit에서 크기별로 선 굵기를 맞춰
+   따로 렌더링한 것입니다. 이 스크립트는 큰 이미지 한 장을 리사이즈하는
+   방식이라 16·32px에서 가는 획이 사라집니다. 로고가 바뀔 때만 참고용으로 두었습니다.
+
     python3 apply_favicon.py my-logo.png
     python3 apply_favicon.py favicon.ico --plate "#FFFFFF"
 
